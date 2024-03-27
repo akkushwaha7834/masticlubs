@@ -49,8 +49,49 @@
         </div>
       </nav>
 
-
+    
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="pop_up_content text-center">
+                      <img src="images/hugs-love.gif" class="img-fluid text-center" width="30%"/>
+                      <p class="warning-para">Please read the following warning before continuing</p>
+                      <p class="mt-4 px-5 year_para"><b>I am over 18 years old</b> and I accept the viewing of explicit texts and images intended for an <b>adult audience</b>.</p>
+                      <p class="tnc_class">I have read and accept the<br> <a href="/terms-and-conditions/" class="text-decoration-none">Terms and Conditions</a></p>
+                    </div>
+                </div>
+                <div class="modal-footer d-block text-center border-0 mb-3">
+                    <button type="button" class="btn bttn btn-primary border-0 mb-3 w-50" id="agreeBtn" style="background-color: #800404;">ACCEPT</button><br>
+                    <a href="https://www.google.com" rel="noopener nofollow" data-dismiss="modal" class="text-center text-decoration-none">Decline</a>
+                </div>
+            </div>
+        </div>
+    </div>
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script>
+      // Check if the user has agreed before
+      const hasAgreed = localStorage.getItem('hasAgreed');
+
+      // If not agreed yet and not reloading the page after agreeing, show the modal after 3 seconds
+      if (!hasAgreed && !sessionStorage.getItem('agreedAndReloaded')) {
+          setTimeout(function () {
+              $('#exampleModal').modal('show');
+          }, 1000);
+      }
+
+      // When the agree button is clicked, store in localStorage and hide the modal
+      $('#agreeBtn').click(function () {
+          localStorage.setItem('hasAgreed', true);
+          $('#exampleModal').modal('hide');
+
+          // Set a session storage flag to indicate that the user has agreed and reloaded the page
+          sessionStorage.setItem('agreedAndReloaded', true);
+      });
+
+  </script>
 </body>
 </html>
