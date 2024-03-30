@@ -44,3 +44,47 @@ body{ font-family: Segoe UI;}
 .image-location{padding-bottom: 10px;}
 .top-list{padding:0px 20px 0}
 .top-list li{list-style: none;line-height: 31px;background: url(../images/white-tick.png) no-repeat left 11px;padding: 3px 0 0px 25px;}
+.location_listing{padding: 50px 0;}
+.partners_card img {
+/*	max-width: 80%;*/
+    opacity: 1;
+    transition: 0.35s linear;
+    transition-property: transform, opacity;
+}
+.partners_card:hover img {
+    opacity: 1;
+    transform: scale(0.9);
+}
+#partners .nav-link.active {
+    border-radius: 12px 12px 0px 0px;
+    background-color: #e22bb230;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #800404;
+    border-bottom: 1px solid #e22bb230;
+    border-top: 1px solid #800404;
+    border-right: 1px solid #800404;
+    border-left: 1px solid #800404;
+}
+#partners .nav-link {
+    padding: 15px 30px;
+    color: #800404;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.tab-border {
+    border: 1px solid #800404;
+    padding: 20px 30px;
+    background: #e22bb230;
+}
+#partners .nav-tabs {
+    border-bottom: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
