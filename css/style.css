@@ -32,16 +32,15 @@ body{ font-family: Segoe UI;}
 /*Content Section*/
 .content_section{padding: 50px 0;}
 .product {box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);transition: all .5s;}
-.product:hover {box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);height: 100%;border-radius: 20px;background: #fff;-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);-moz-box-shadow:    0 1px 4px rgba(0, 0, 0, 0.15);}
-.image-box-with-text{display: flex;align-items: center;justify-content: center;background: #e22bb2;gap: 10px; padding: 5px 0;}
+.product:hover {box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);border-radius: 20px;background: #fff;-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);-moz-box-shadow:    0 1px 4px rgba(0, 0, 0, 0.15);}
+.image-box-with-text{display: flex;align-items: center;justify-content: center;background: #e22bb2;gap: 10px; padding: 5px 0; margin: 0 20px;margin-top: -30px;}
 .image-content{padding: 20px 20px 0;}
 .image-box {width: 100%;overflow: hidden;border-radius: 2% 2% 0 0;}
 .images {height: 15em;background-size: cover; background-position: center center; background-repeat: no-repeat;border-radius: 2% 2% 0 0;transition: all 1s ease;-moz-transition: all 1s ease;-ms-transition: all 1s ease;-webkit-transition: all 1s ease;-o-transition: all 1s ease;}
-.images:hover {transform: scale(1.2);overflow: hidden;border-radius: 2%;}
-.image-1 {background-image: url("https://in.masticlubs.com/uploads/service/1/big/5974220157womenseekmen_repr.jpg");}
-.image-2 {background-image: url("https://in.masticlubs.com/uploads/service/2/big/32584Sensual-Massages.jpg");}
-.image-3 {background-image: url("https://i2-prod.mirror.co.uk/incoming/article13560624.ece/ALTERNATES/s615b/0_DDP_CHP__100jamesJPG.jpg");}
-.image-location{padding-bottom: 10px;}
+.image-1 {background-image: url("../images/call-girl.jpg");}
+.image-2 {background-image: url("../images/sensual-massages.jpg");}
+.image-3 {background-image: url("../images/male-escort.jpg");}
+.image-location{padding-bottom: 30px;}
 .top-list{padding:0px 20px 0}
 .top-list li{list-style: none;line-height: 31px;background: url(../images/white-tick.png) no-repeat left 11px;padding: 3px 0 0px 25px;}
 .location_listing{padding: 50px 0;}
@@ -104,4 +103,20 @@ body{ font-family: Segoe UI;}
 }
 a.theme-btn {
     text-decoration: none;
+}
+.horizontal_hr{margin: 0.5rem 0;border-color: #800404;opacity: 0.5;}
+.read_more_bttn{padding: 10px 30px;
+    background: #e22bb2;
+    margin-top: -20px !important;
+    width: 80%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-weight: 600;
+}
+.read_more_bttn:hover {
+    background: #800404;
+    transition: all 500ms ease;
 }
