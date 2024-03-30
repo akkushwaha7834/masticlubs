@@ -24,8 +24,69 @@ body{ font-family: Segoe UI;}
 #buttonClickModal .modal-dialog{max-width: 700px;}
 .search_bttn{display: flex;align-items: center;justify-content: center;margin: 0 auto;}
 /* Banner */
-/* .home-banner {background: url("../images/slide1.jpg"); color: #fff; background-repeat: no-repeat;background-size: cover;padding: 300px 0px;background-position: center;position: relative;} */
-.home-banner {background: url("https://www.skokka.in/static/assets/easter-hero-en.9f5d7703ab53a56c8377.jpg");background-repeat: no-repeat;background-size: cover;padding: 100px 0px;background-position: center;position: relative;color: #fff;}
+.home-banner {background: url("../images/mumbai-escort-service.jpg"); color: #fff; background-repeat: no-repeat;background-size: cover;padding: 100px 0px;background-position: center;position: relative;}
+/* .home-banner {background: url("https://www.skokka.in/static/assets/easter-hero-en.9f5d7703ab53a56c8377.jpg");background-repeat: no-repeat;background-size: cover;padding: 100px 0px;background-position: center;position: relative;color: #fff;} */
 .home-banner::after {content: "";position: absolute;height: 100%;width: 100%;top: 0;background: radial-gradient(rgb(226 43 178), rgb(172 14 22));left: 0;opacity: 0.5;z-index: 0;}
 .banner_content {position: relative;z-index: 1;}
 .bttn.btn-warning{display: flex; align-items: center; justify-content: center; margin: 0 auto; color: #800404; font-weight: 600; background: #fff; border: 1px solid #800404; border-radius: 50px; line-height: 40px; width: 20%;}
+/*Content Section*/
+.content_section{padding: 50px 0;}
+.product {box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);transition: all .5s;}
+.product:hover {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    height: 100%;
+    border-radius: 20px;
+    background: #fff;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow:    0 1px 4px rgba(0, 0, 0, 0.15);
+}
+.image-box-with-text{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e22bb2;
+    gap: 10px;
+}
+.image-content{
+  padding: 20px 20px 0;
+}
+.image-box {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 2% 2% 0 0;
+}
+
+.images {
+  height: 15em;
+  background-size: cover; 
+  background-position: center center; 
+  background-repeat: no-repeat;
+  border-radius: 2% 2% 0 0;
+  transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -o-transition: all 1s ease;
+}
+
+.images:hover {
+  transform: scale(1.2);
+  overflow: hidden;
+  border-radius: 2%;
+}
+.image-1 {background-image: url("https://in.masticlubs.com/uploads/service/1/big/5974220157womenseekmen_repr.jpg");}
+.image-2 {background-image: url("https://in.masticlubs.com/uploads/service/2/big/32584Sensual-Massages.jpg");}
+.image-3 {background-image: url("https://i2-prod.mirror.co.uk/incoming/article13560624.ece/ALTERNATES/s615b/0_DDP_CHP__100jamesJPG.jpg");}
+.image-location{
+  padding-bottom: 10px;
+}
+.top-list{
+  padding:0px 20px 0
+}
+.top-list li{
+  list-style: none;
+/*    font-size: 17px;*/
+    line-height: 31px;
+    background: url(../images/white-tick.png) no-repeat left 11px;
+    padding: 3px 0 0px 25px;
+}
