@@ -58,10 +58,8 @@ body{ font-family: Segoe UI;}
 #partners .nav-link.active {
     border-radius: 12px 12px 0px 0px;
     background-color: #e22bb230;
-    font-size: 12px;
     letter-spacing: 2px;
     line-height: 16px;
-    text-transform: uppercase;
     color: #800404;
     border-bottom: 1px solid #e22bb230;
     border-top: 1px solid #800404;
@@ -71,20 +69,49 @@ body{ font-family: Segoe UI;}
 #partners .nav-link {
     padding: 15px 30px;
     color: #800404;
-    font-size: 12px;
     letter-spacing: 2px;
     line-height: 16px;
-    text-transform: uppercase;
     font-weight: 600;
 }
 .tab-border {
     border: 1px solid #800404;
-    padding: 20px 30px;
+    padding: 50px 30px;
     background: #e22bb230;
+    text-align: center;
 }
 #partners .nav-tabs {
     border-bottom: none;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+#partners .nav-link:hover {
+    border-bottom: 1px solid #e22bb230;
+    border-top: 1px solid #800404;
+    border-right: 1px solid #800404;
+    border-left: 1px solid #800404;
+    border-radius: 12px 12px 0px 0px;
+}
+#partners .nav-link.active:hover{
+    border-bottom: 1px solid #e22bb230;
+}
+.theme-btn {
+    position: relative;
+    display: inline;
+    overflow: hidden;
+    font-size: 17px;
+    padding: 15px 30px;
+    background: #fff;
+    line-height: 25px;
+    color: #800404;
+    border: 1px solid #800404;
+    font-weight: 500;
+    border-radius: 30px;
+    text-transform: capitalize;
+    transition: all 500ms ease;
+    cursor: pointer;
+    z-index: 1;
+}
+a.theme-btn {
+    text-decoration: none;
 }
