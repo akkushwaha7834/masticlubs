@@ -10,173 +10,172 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container">
-          <a class="navbar-brand" href="/">
-            <img src="images/logo.png">
-          </a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
-              </li>
-              <li class="nav-item">
-                <a type="button" class="" data-bs-toggle="modal" data-bs-target="#buttonClickModal">
-                  <i id="search-modal-icon" class="fas fa-search text-clipped"></i>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a type="button" class="" data-bs-toggle="modal" data-bs-target="#buttonClickModalSignup">
-                  <i id="search-modal-icon" class="fas fa-search text-clipped"></i>
-                </a>
-              </li>
-              
-          </div>
-        </div>
-      </nav>
+  <!-- Header -->
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container">
+      <a class="navbar-brand" href="/">
+        <img src="images/logo.png">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a type="button" class="" data-bs-toggle="modal" data-bs-target="#buttonClickModal">
+              <i id="search-modal-icon" class="fas fa-search text-clipped"></i>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a type="button" class="" data-bs-toggle="modal" data-bs-target="#buttonClickModalSignup">
+              <i id="search-modal-icon" class="fas fa-search text-clipped"></i>
+            </a>
+          </li>  
+      </div>
+    </div>
+  </nav>
+  <!-- Header -->
 
     
-    <!-- Modal On Page Load -->
-    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <div class="pop_up_content text-center">
-                      <img src="images/hugs-love.gif" class="img-fluid text-center" width="30%"/>
-                      <p class="warning-para">Please read the following warning before continuing</p>
-                      <p class="mt-4 px-5 year_para"><b>I am over 18 years old</b> and I accept the viewing of explicit texts and images intended for an <b>adult audience</b>.</p>
-                      <p class="tnc_class">I have read and accept the<br> <a href="/terms-and-conditions/" class="text-decoration-none text-primary">Terms and Conditions</a></p>
-                    </div>
+  <!-- Modal On Page Load -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered ">
+          <div class="modal-content">
+              <div class="modal-body">
+                  <div class="pop_up_content text-center">
+                    <img src="images/hugs-love.gif" class="img-fluid text-center" width="30%"/>
+                    <p class="warning-para">Please read the following warning before continuing</p>
+                    <p class="mt-4 px-5 year_para"><b>I am over 18 years old</b> and I accept the viewing of explicit texts and images intended for an <b>adult audience</b>.</p>
+                    <p class="tnc_class">I have read and accept the<br> <a href="/terms-and-conditions/" class="text-decoration-none text-primary">Terms and Conditions</a></p>
+                  </div>
+              </div>
+              <div class="modal-footer d-block text-center border-0 mb-3">
+                  <button type="button" class="btn bttn btn-primary border-0 mb-3 w-50" id="agreeBtn" style="">ACCEPT</button><br>
+                  <a href="https://www.google.com" rel="noopener nofollow" data-dismiss="modal" class="text-center text-primary text-decoration-none">Decline</a>
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- Modal On Page Load -->
+  <!-- Modal Search  -->
+  <div class="modal fade" id="buttonClickModal" tabindex="-1" aria-labelledby="buttonClickModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered ">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="buttonClickModalLabel"><i  class="fas fa-search text-clipped"></i> Search</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form method="POST" name="Search">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6  mb-3">
+                  <div class="form-group">
+                    <select class="form-control" id="service_category">
+                      <option>Call Girls</option>
+                      <option>Male Escorts</option>
+                      <option>Massage</option>
+                    </select>
+                  </div>
                 </div>
-                <div class="modal-footer d-block text-center border-0 mb-3">
-                    <button type="button" class="btn bttn btn-primary border-0 mb-3 w-50" id="agreeBtn" style="">ACCEPT</button><br>
-                    <a href="https://www.google.com" rel="noopener nofollow" data-dismiss="modal" class="text-center text-primary text-decoration-none">Decline</a>
+                <div class="col-md-6  mb-3">
+                  <div class="form-group">
+                    <select class="form-control" id="service_state">
+                      <option>Uttar Pradesh</option>
+                      <option>Delhi</option>
+                      <option>Haryana</option>
+                      <option>Bihar</option>
+                      <option>Goa</option>
+                    </select>
+                  </div>
                 </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6  mb-3">
+                  <div class="form-group">
+                    <select class="form-control" id="service_city">
+                      <option>Ghaziabad</option>
+                      <option>Lucknow</option>
+                      <option>Buxar</option>
+                      <option>Ambala</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="col-md-6  mb-3">
+                  <div class="form-group">
+                    <input class="form-control" type="text" placeholder="Looking for...">
+                  </div>
+                </div>
+              </div>
+              <div class="row mb-3">
+                <div class="col-md-12">
+                  <button class="btn bttn btn-primary w-50 search_bttn" type="submit">Search</button>
+                </div>
+              </div>
             </div>
-        </div>
-    </div>
-    <!-- Modal On Page Load -->
-    <!-- Modal Search  -->
-    <div class="modal fade" id="buttonClickModal" tabindex="-1" aria-labelledby="buttonClickModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="buttonClickModalLabel"><i  class="fas fa-search text-clipped"></i> Search</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <form method="POST" name="Search">
-              <div class="container">
-                <div class="row">
-                  <div class="col-md-6  mb-3">
-                    <div class="form-group">
-                      <select class="form-control" id="service_category">
-                        <option>Call Girls</option>
-                        <option>Male Escorts</option>
-                        <option>Massage</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="col-md-6  mb-3">
-                    <div class="form-group">
-                      <select class="form-control" id="service_state">
-                        <option>Uttar Pradesh</option>
-                        <option>Delhi</option>
-                        <option>Haryana</option>
-                        <option>Bihar</option>
-                        <option>Goa</option>
-                      </select>
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-6  mb-3">
-                    <div class="form-group">
-                      <select class="form-control" id="service_city">
-                        <option>Ghaziabad</option>
-                        <option>Lucknow</option>
-                        <option>Buxar</option>
-                        <option>Ambala</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="col-md-6  mb-3">
-                    <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Looking for...">
-                    </div>
-                  </div>
-                </div>
-                <div class="row mb-3">
-                  <div class="col-md-12">
-                    <button class="btn bttn btn-primary w-50 search_bttn" type="submit">Search</button>
-                  </div>
-                </div>
-              </div>
-            </form>
-          </div>
+          </form>
         </div>
       </div>
     </div>
-    <!-- Modal Search  -->
+  </div>
+  <!-- Modal Search  -->
 
-    <!-- Modal Account  -->
-    <div class="modal fade" id="buttonClickModalSignup" tabindex="-1" aria-labelledby="buttonClickModalSignupLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="buttonClickModalSignupLabel"><i  class="fas fa-user text-clipped"></i> Get into Masticlubs!</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <form method="POST" name="Search">
-              <div class="container">
-                <div class="row">
-                  <div class="col-md-12">
-                    <div class="gif_image d-flex justify-content-center">
-                      <img src="images/hugs-love.gif" class="img-fluid text-center" width="30%"/>
-                    </div>
-                  </div>
-                  <div class="col-md-12">
-                    <p class="text-center mt-2">Have an account yet? <br /><a href="login.html" class="btn bttn btn-primary w-50 mt-3 text-decoration-none">Login</a></p>
-                  </div>
-                  <div class="col-md-12  mb-2">
-                    <p class="text-center">Don't have an account yet? <br /> <a href="signup.html" class="btn bttn btn-primary w-50 mt-3 text-decoration-none">Signup</a></p>
+  <!-- Modal Account  -->
+  <div class="modal fade" id="buttonClickModalSignup" tabindex="-1" aria-labelledby="buttonClickModalSignupLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered ">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="buttonClickModalSignupLabel"><i  class="fas fa-user text-clipped"></i> Get into Masticlubs!</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form method="POST" name="Search">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="gif_image d-flex justify-content-center">
+                    <img src="images/hugs-love.gif" class="img-fluid text-center" width="30%"/>
                   </div>
                 </div>
+                <div class="col-md-12">
+                  <p class="text-center mt-2">Have an account yet? <br /><a href="login.html" class="btn bttn btn-primary w-50 mt-3 text-decoration-none">Login</a></p>
+                </div>
+                <div class="col-md-12  mb-2">
+                  <p class="text-center">Don't have an account yet? <br /> <a href="signup.html" class="btn bttn btn-primary w-50 mt-3 text-decoration-none">Signup</a></p>
+                </div>
               </div>
-            </form>
-          </div>
+            </div>
+          </form>
         </div>
       </div>
     </div>
-    <!-- Modal Acount  -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script>
-      // Check if the user has agreed before
-      const hasAgreed = localStorage.getItem('hasAgreed');
+  </div>
+  <!-- Modal Acount  -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script>
+    // Check if the user has agreed before
+    const hasAgreed = localStorage.getItem('hasAgreed');
 
-      // If not agreed yet and not reloading the page after agreeing, show the modal after 3 seconds
-      if (!hasAgreed && !sessionStorage.getItem('agreedAndReloaded')) {
-          setTimeout(function () {
-              $('#exampleModal').modal('show');
-          }, 1000);
-      }
+    // If not agreed yet and not reloading the page after agreeing, show the modal after 3 seconds
+    if (!hasAgreed && !sessionStorage.getItem('agreedAndReloaded')) {
+        setTimeout(function () {
+            $('#exampleModal').modal('show');
+        }, 1000);
+    }
 
-      // When the agree button is clicked, store in localStorage and hide the modal
-      $('#agreeBtn').click(function () {
-          localStorage.setItem('hasAgreed', true);
-          $('#exampleModal').modal('hide');
+    // When the agree button is clicked, store in localStorage and hide the modal
+    $('#agreeBtn').click(function () {
+        localStorage.setItem('hasAgreed', true);
+        $('#exampleModal').modal('hide');
 
-          // Set a session storage flag to indicate that the user has agreed and reloaded the page
-          sessionStorage.setItem('agreedAndReloaded', true);
-      });
-
+        // Set a session storage flag to indicate that the user has agreed and reloaded the page
+        sessionStorage.setItem('agreedAndReloaded', true);
+    });
   </script>
 </body>
 </html>
