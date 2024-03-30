@@ -45,17 +45,7 @@ body{ font-family: Segoe UI;}
 .top-list{padding:0px 20px 0}
 .top-list li{list-style: none;line-height: 31px;background: url(../images/white-tick.png) no-repeat left 11px;padding: 3px 0 0px 25px;}
 .location_listing{padding: 50px 0;}
-.partners_card img {
-/*	max-width: 80%;*/
-    opacity: 1;
-    transition: 0.35s linear;
-    transition-property: transform, opacity;
-}
-.partners_card:hover img {
-    opacity: 1;
-    transform: scale(0.9);
-}
-#partners .nav-link.active {
+#services_location .nav-link.active {
     border-radius: 12px 12px 0px 0px;
     background-color: #e22bb230;
     letter-spacing: 2px;
@@ -66,7 +56,7 @@ body{ font-family: Segoe UI;}
     border-right: 1px solid #800404;
     border-left: 1px solid #800404;
 }
-#partners .nav-link {
+#services_location .nav-link {
     padding: 15px 30px;
     color: #800404;
     letter-spacing: 2px;
@@ -79,20 +69,20 @@ body{ font-family: Segoe UI;}
     background: #e22bb230;
     text-align: center;
 }
-#partners .nav-tabs {
+#services_location .nav-tabs {
     border-bottom: none;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-#partners .nav-link:hover {
+#services_location .nav-link:hover {
     border-bottom: 1px solid #e22bb230;
     border-top: 1px solid #800404;
     border-right: 1px solid #800404;
     border-left: 1px solid #800404;
     border-radius: 12px 12px 0px 0px;
 }
-#partners .nav-link.active:hover{
+#services_location .nav-link.active:hover{
     border-bottom: 1px solid #e22bb230;
 }
 .theme-btn {
