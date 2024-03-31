@@ -31,7 +31,7 @@ body{ font-family: Segoe UI;}
 .bttn.btn-warning{display: flex; align-items: center; justify-content: center; margin: 0 auto; color: #800404; font-weight: 600; background: #fff; border: 1px solid #800404; border-radius: 50px; line-height: 40px; width: 20%;}
 /*Content Section*/
 .content_section{padding: 50px 0;}
-.product {box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);transition: all .5s;}
+.product {box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);transition: all .5s; height: 100%;}
 .product:hover {box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);border-radius: 20px;background: #fff;-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);-moz-box-shadow:    0 1px 4px rgba(0, 0, 0, 0.15);}
 .image-box-with-text{display: flex;align-items: center;justify-content: center;background: #e22bb2;gap: 10px; padding: 5px 0; margin: 0 20px;margin-top: -30px;}
 .image-content{padding: 20px 20px 0;}
@@ -40,7 +40,8 @@ body{ font-family: Segoe UI;}
 .image-1 {background-image: url("../images/call-girl.jpg");}
 .image-2 {background-image: url("../images/sensual-massages.jpg");}
 .image-3 {background-image: url("../images/male-escort.jpg");}
-.image-location{padding-bottom: 30px;}
+.image-location{padding-bottom: 10px;}
+.location_para{margin: 0 auto;}
 .top-list{padding:0px 20px 0}
 .top-list li{list-style: none;line-height: 31px;background: url(../images/white-tick.png) no-repeat left 11px;padding: 3px 0 0px 25px;}
 .location_listing{padding: 50px 0;}
