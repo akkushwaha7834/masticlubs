@@ -24,8 +24,9 @@ body{ font-family: Segoe UI;}
 #buttonClickModal .modal-dialog{max-width: 700px;}
 .search_bttn{display: flex;align-items: center;justify-content: center;margin: 0 auto;}
 /*Header*/
-.nav-item {
-    margin: 0 15px;
+.nav-item {margin: 0 15px;}
+.nav-item a i {
+    color: #800404;
 }
 /* Banner */
 .home-banner {background: url("../images/mumbai-escort-service.jpg"); color: #fff; background-repeat: no-repeat;background-size: cover;padding: 100px 0px;background-position: center;position: relative;}
@@ -49,79 +50,14 @@ body{ font-family: Segoe UI;}
 .top-list{padding:0px 20px 0}
 .top-list li{list-style: none;line-height: 31px;background: url(../images/white-tick.png) no-repeat left 11px;padding: 3px 0 0px 25px;}
 .location_listing{padding: 50px 0;}
-#services_location .nav-link.active {
-    border-radius: 12px 12px 0px 0px;
-    background-color: #e22bb230;
-    letter-spacing: 2px;
-    line-height: 16px;
-    color: #800404;
-    border-bottom: 1px solid #e22bb230;
-    border-top: 1px solid #800404;
-    border-right: 1px solid #800404;
-    border-left: 1px solid #800404;
-}
-#services_location .nav-link {
-    padding: 15px 30px;
-    color: #800404;
-    letter-spacing: 2px;
-    line-height: 16px;
-    font-weight: 600;
-}
-.tab-border {
-    border: 1px solid #800404;
-    padding: 50px 30px;
-    background: #e22bb230;
-    text-align: center;
-}
-#services_location .nav-tabs {
-    border-bottom: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-#services_location .nav-link:hover {
-    border-bottom: 1px solid #e22bb230;
-    border-top: 1px solid #800404;
-    border-right: 1px solid #800404;
-    border-left: 1px solid #800404;
-    border-radius: 12px 12px 0px 0px;
-}
-#services_location .nav-link.active:hover{
-    border-bottom: 1px solid #e22bb230;
-}
-.theme-btn {
-    position: relative;
-    display: inline;
-    overflow: hidden;
-    font-size: 17px;
-    padding: 15px 30px;
-    background: #fff;
-    line-height: 25px;
-    color: #800404;
-    border: 1px solid #800404;
-    font-weight: 500;
-    border-radius: 30px;
-    text-transform: capitalize;
-    transition: all 500ms ease;
-    cursor: pointer;
-    z-index: 1;
-}
-a.theme-btn {
-    text-decoration: none;
-}
+#services_location .nav-link.active {border-radius: 12px 12px 0px 0px;background-color: #e22bb230;letter-spacing: 2px;line-height: 16px;color: #800404;border-bottom: 1px solid #e22bb230;border-top: 1px solid #800404;border-right: 1px solid #800404;border-left: 1px solid #800404;}
+#services_location .nav-link {padding: 15px 30px;color: #800404;letter-spacing: 2px;line-height: 16px;font-weight: 600;}
+.tab-border {border: 1px solid #800404;padding: 50px 30px;background: #e22bb230;text-align: center;}
+#services_location .nav-tabs {border-bottom: none;display: flex;align-items: center;justify-content: center;}
+#services_location .nav-link:hover {border-bottom: 1px solid #e22bb230;border-top: 1px solid #800404;border-right: 1px solid #800404;border-left: 1px solid #800404;border-radius: 12px 12px 0px 0px;}
+#services_location .nav-link.active:hover{border-bottom: 1px solid #e22bb230;}
+.theme-btn {position: relative;display: inline;overflow: hidden;font-size: 17px;padding: 15px 30px;background: #fff;line-height: 25px;color: #800404;border: 1px solid #800404;font-weight: 500;border-radius: 30px;text-transform: capitalize;transition: all 500ms ease;cursor: pointer;z-index: 1;}
+a.theme-btn {text-decoration: none;}
 .horizontal_hr{margin: 0.5rem 0;border-color: #800404;opacity: 0.5;}
-.read_more_bttn{padding: 10px 30px;
-    background: #e22bb2;
-    margin-top: -20px !important;
-    width: 80%;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto;
-    font-weight: 600;
-}
-.read_more_bttn:hover {
-    background: #800404;
-    transition: all 500ms ease;
-}
+.read_more_bttn{padding: 10px 30px;background: #e22bb2;margin-top: -20px !important;width: 80%;text-align: center;display: flex;align-items: center;justify-content: center;margin: 0 auto;font-weight: 600;}
+.read_more_bttn:hover {background: #800404;transition: all 500ms ease;}
