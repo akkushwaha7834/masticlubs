@@ -23,6 +23,10 @@ body{ font-family: Segoe UI;}
 /* Search Pop Up */
 #buttonClickModal .modal-dialog{max-width: 700px;}
 .search_bttn{display: flex;align-items: center;justify-content: center;margin: 0 auto;}
+/*Header*/
+.nav-item {
+    margin: 0 15px;
+}
 /* Banner */
 .home-banner {background: url("../images/mumbai-escort-service.jpg"); color: #fff; background-repeat: no-repeat;background-size: cover;padding: 100px 0px;background-position: center;position: relative;}
 /* .home-banner {background: url("https://www.skokka.in/static/assets/easter-hero-en.9f5d7703ab53a56c8377.jpg");background-repeat: no-repeat;background-size: cover;padding: 100px 0px;background-position: center;position: relative;color: #fff;} */
