@@ -25,33 +25,22 @@ body{ font-family: Segoe UI;}
 .search_bttn{display: flex;align-items: center;justify-content: center;margin: 0 auto;}
 /*Header*/
 .nav-item {margin: 0 15px;}
-.nav-item a i {
-    color: #800404;
-}
+.nav-item a i {color: #800404;}
 /*Footer*/
-.footer-menu{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin: 0;
-}
-.footer_menu_list{
-    margin: 0 auto;
-}
-.footer{
-    padding: 20px 0;
-    background: #800404;
-}
-.footer-menu li{
+.footer-menu{display: flex;flex-direction: row;justify-content: space-between;margin: 0;}
+.footer_menu_list{margin: 0 auto;}
+.footer{padding: 20px 0;background: #800404;}
+.footer-menu li{list-style: none;}
+.footer-menu li:last-child::after {content:"";}
+.footer-cities li{
+margin: 5px 0 5px 0;
+    position: relative;
+    width: 20% !important;
+    float: left;
     list-style: none;
 }
-/*.footer-menu li::after {
-    content: "|";
-    margin-left: 10px;
-    color: #fff;
-}*/
-.footer-menu li:last-child::after {
-    content:"";
+.footer-cities li a{
+    text-decoration: none;
 }
 /* Banner */
 .home-banner {background: url("../images/mumbai-escort-service.jpg"); color: #fff; background-repeat: no-repeat;background-size: cover;padding: 100px 0px;background-position: center;position: relative;}
