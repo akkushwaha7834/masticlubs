@@ -31,6 +31,10 @@ body{ font-family: Segoe UI;}
 #buttonClickModal .modal-dialog{max-width: 700px;}
 .search_bttn{display: flex;align-items: center;justify-content: center;margin: 0 auto;}
 /*Header*/
+.navbar-nav.menu_bar{
+    display: flex;
+    align-items: center;
+}
 .nav-item {margin: 0 15px;}
 .nav-item a i {color: var(--primary);}
 /*Footer*/
