@@ -30,7 +30,7 @@
                                 </label>
                             </div>
                             <button class="btn bttn btn-primary w-50 mt-3">Sign Up</button>
-                            <p class="text-center mt-2">Have an account yet? <a href="login.html" class="text-primary text-decoration-none">Login</a></p>
+                            <p class="text-center mt-2">Have an account yet? <a href="login.php" class="text-primary text-decoration-none">Login</a></p>
                         </form>
                     </div> 
                 </div>

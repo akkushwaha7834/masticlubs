@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/all.min.css">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+<?php include_once('./includes/header.php') ?>
     <section class="login_page">
         <div class="container">
             <div class="row">
@@ -30,15 +20,12 @@
                                 </label>
                             </div>
                             <button class="btn bttn btn-primary w-50 mt-3">Sign Up</button>
-                            <p class="text-center mt-2"><a href="password-recover.html" class="text-primary text-decoration-none">Forgot your password?</a></p>
-                            <p class="text-center">Don't have an account yet? <a href="signup.html" class="text-primary text-decoration-none">Signup</a></p>
+                            <p class="text-center mt-2"><a href="password-recover.php" class="text-primary text-decoration-none">Forgot your password?</a></p>
+                            <p class="text-center">Don't have an account yet? <a href="signup.php" class="text-primary text-decoration-none">Signup</a></p>
                         </form>
                     </div> 
                 </div>
             </div>   
         </div>
     </section>
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-</body>
-</html>
+    <?php include_once('./includes/footer.php') ?>
