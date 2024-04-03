@@ -31,10 +31,7 @@ body{ font-family: Segoe UI;}
 #buttonClickModal .modal-dialog{max-width: 700px;}
 .search_bttn{display: flex;align-items: center;justify-content: center;margin: 0 auto;}
 /*Header*/
-.navbar-nav.menu_bar{
-    display: flex;
-    align-items: center;
-}
+.navbar-nav.menu_bar{display: flex;align-items: center;}
 .nav-item {margin: 0 15px;}
 .nav-item a i {color: var(--primary);}
 /*Footer*/
@@ -43,18 +40,12 @@ body{ font-family: Segoe UI;}
 .footer{padding: 20px 0;background: var(--primary);}
 .footer-menu li{list-style: none;}
 .footer-menu li:last-child::after {content:"";}
-.footer-cities li{
-margin: 5px 0 5px 0;
-    position: relative;
-    width: 20% !important;
-    float: left;
-    list-style: none;
-}
-.footer-cities li a{
-    text-decoration: none;
-}
+.footer-cities li{margin: 5px 0 5px 0;position: relative;width: 20% !important;float: left;list-style: none;}
+.footer-cities li a{text-decoration: none;}
 /* Banner */
 .home-banner {background: url("../images/mumbai-escort-service.jpg"); color: #fff; background-repeat: no-repeat;background-size: cover;padding: 100px 0px;background-position: center;position: relative;}
+.callgirl-banner{background: url("../images/about-slider1.jpg"); color: #fff; background-repeat: no-repeat;background-size: cover;padding: 50px 0px;background-position: center;position: relative;}
+.callgirl-banner::after {content: "";position: absolute;height: 100%;width: 100%;top: 0;background: radial-gradient(#274690, #0077b6);left: 0;opacity: 0.5;z-index: 0;}
 /* .home-banner {background: url("https://www.skokka.in/static/assets/easter-hero-en.9f5d7703ab53a56c8377.jpg");background-repeat: no-repeat;background-size: cover;padding: 100px 0px;background-position: center;position: relative;color: #fff;} */
 .home-banner::after {content: "";position: absolute;height: 100%;width: 100%;top: 0;background: radial-gradient(#274690, #0077b6);left: 0;opacity: 0.5;z-index: 0;}
 .banner_content {position: relative;z-index: 1;}
