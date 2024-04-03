@@ -31,7 +31,7 @@
         <div class="col-md-4">
           <div class="product">
             <div class="image-box">
-              <a href="call-girls.html">
+              <a href="call-girls.php">
                 <div class="images image-1" ></div>
               </a>
             </div>
@@ -39,7 +39,7 @@
               <div class="image-box-with-text">
                 <img src="images/call-girls.png" width="10%">
                 <h3 class="text-white">
-                 <a href="call-girls.html" class="text-decoration-none text-white">Call Girls</a>
+                 <a href="call-girls.php" class="text-decoration-none text-white">Call Girls</a>
                 </h3>
               </div>
               <div class="image-content">
@@ -61,13 +61,13 @@
             </div>
           </div>
           <div class="read_more">
-            <a href="call-girls.html" class="read_more_bttn text-decoration-none text-white">Read More</a>
+            <a href="call-girls.php" class="read_more_bttn text-decoration-none text-white">Read More</a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="product">
             <div class="image-box">
-              <a href="massages.html">
+              <a href="massages.php">
                 <div class="images image-2" ></div>
               </a>
             </div>
@@ -75,7 +75,7 @@
               <div class="image-box-with-text">
                 <img src="images/massage-services.png" width="10%">
                 <h3 class="text-white">
-                  <a href="massages.html" class="text-decoration-none text-white">Massage</a>
+                  <a href="massages.php" class="text-decoration-none text-white">Massage</a>
                 </h3>
               </div>
               <div class="image-content">
@@ -95,13 +95,13 @@
             </div>
           </div>
           <div class="read_more">
-            <a href="massages.html" class="read_more_bttn text-decoration-none text-white">Read More</a>
+            <a href="massages.php" class="read_more_bttn text-decoration-none text-white">Read More</a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="product">
             <div class="image-box">
-              <a href="male-escorts.html">
+              <a href="male-escorts.php">
                 <div class="images image-3" ></div>
               </a>
             </div>
@@ -109,7 +109,7 @@
               <div class="image-box-with-text">
                 <img src="images/male-escorts.png" width="10%">
                 <h3 class="text-white">
-                  <a href="male-escorts.html" class="text-decoration-none text-white">Male Escorts</a>
+                  <a href="male-escorts.php" class="text-decoration-none text-white">Male Escorts</a>
                 </h3>
               </div>
               <div class="image-content">
@@ -131,7 +131,7 @@
             </div>
           </div>
           <div class="read_more">
-            <a href="male-escorts.html" class="read_more_bttn text-decoration-none text-white">Read More</a>
+            <a href="male-escorts.php" class="read_more_bttn text-decoration-none text-white">Read More</a>
           </div>
         </div>
       </div>
