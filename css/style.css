@@ -18,10 +18,6 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    opacity: .8;
-}
-
 .breadcrumb-item+.breadcrumb-item::before {
     letter-spacing: -5px;
 }
@@ -54,6 +50,12 @@ a:hover {
 
 .text-primary {
     color: var(--primary) !important;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 992px;
+    }
 }
 
 /* SignUp CSS */
@@ -157,7 +159,29 @@ a:hover {
     width: 100%;
 }
 
+/* accoridon style */
+.accordion-button:focus {
+    --bs-accordion-btn-focus-box-shadow: none;
+}
+
+.accordion-button::after {
+    background: none;
+    text-align: center;
+    align-content: center;
+    content: '+';
+    font-size: 22px;
+}
+
+.accordion-button:not(.collapsed)::after {
+    background: none;
+    content: '-';
+}
+
 /* Search Pop Up */
+.modal-content {
+    border: 5px solid var(--bs-blue);
+}
+
 #buttonClickModal .modal-dialog {
     max-width: 700px;
 }
@@ -517,13 +541,23 @@ a.theme-btn {
 }
 
 .galleries {
-    column-count: 4;
-    column-gap: 1rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
 }
 
-.galleries>a {
-    display: inline-block;
-    margin-bottom: 1rem;
+.galleries>a:hover {
+    cursor: zoom-in;
+}
+
+.galleries>a>img {
+    width: 100%;
+}
+
+/* carousel sytle */
+.carousel.slide .carousel-control-next,
+.carousel.slide .carousel-control-prev {
+    width: 5%;
 }
 
 @media (max-width: 767px) {

@@ -24,8 +24,8 @@
 
 <section class="call-girls-listing">
 	<div class="container">
-		<div class="row">
-			<div class="col-md-9">
+		<div class="row gy-5">
+			<div class="col-md-12">
 				<?php for ($i = 0; $i < 6; $i++) { ?>
 					<div class="card mb-3">
 						<div class="row g-0">
@@ -55,7 +55,358 @@
 					</div>
 				<?php } ?>
 			</div>
-			<div class="col-md-3">
+			<div class="col-12">
+				<div class="related_category_ads">
+					<div class="accordion" id="accordionExample">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+									Call Girls in India
+								</button>
+							</h2>
+							<div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+								<div class="accordion-body">
+									<ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+										<li>
+											<a href="#">Agra (21)</a>
+										</li>
+										<li>
+											<a href="#">Ahmedabad (18)</a>
+										</li>
+										<li>
+											<a href="#">Ajmer (21)</a>
+										</li>
+										<li>
+											<a href="#">Amritsar (20)</a>
+										</li>
+										<li>
+											<a href="#">Bangalore (22)</a>
+										</li>
+										<li>
+											<a href="#">Bhopal (16)</a>
+										</li>
+										<li>
+											<a href="#">Bhubaneswar (15)</a>
+										</li>
+										<li>
+											<a href="#">Chandigarh (15)</a>
+										</li>
+										<li>
+											<a href="#">Chennai (16)</a>
+										</li>
+										<li>
+											<a href="#">Dehradun (13)</a>
+										</li>
+										<li>
+											<a href="#">Delhi (16)</a>
+										</li>
+										<li>
+											<a href="#">Goa (16)</a>
+										</li>
+										<li>
+											<a href="#">Gurgaon (16)</a>
+										</li>
+										<li>
+											<a href="#">Guwahati (14)</a>
+										</li>
+										<li>
+											<a href="#">Hyderabad (16)</a>
+										</li>
+										<li>
+											<a href="#">Indore (18)</a>
+										</li>
+										<li>
+											<a href="#">Jaipur (18)</a>
+										</li>
+										<li>
+											<a href="#">Jalandhar (9)</a>
+										</li>
+										<li>
+											<a href="#">Jodhpur (18)</a>
+										</li>
+										<li>
+											<a href="#">Kolkata (18)</a>
+										</li>
+										<li>
+											<a href="#">Lucknow (15)</a>
+										</li>
+										<li>
+											<a href="#">Ludhiana (20)</a>
+										</li>
+										<li>
+											<a href="#">Mumbai (18)</a>
+										</li>
+										<li>
+											<a href="#">Nashik (16)</a>
+										</li>
+										<li>
+											<a href="#">Navi Mumbai (14)</a>
+										</li>
+										<li>
+											<a href="#">Noida (18)</a>
+										</li>
+										<li>
+											<a href="#">Panchkula (12)</a>
+										</li>
+										<li>
+											<a href="#">Patna (15)</a>
+										</li>
+										<li>
+											<a href="#">Pune (19)</a>
+										</li>
+										<li>
+											<a href="#">Raipur (13)</a>
+										</li>
+										<li>
+											<a href="#">Rajkot (13)</a>
+										</li>
+										<li>
+											<a href="#">Thane (15)</a>
+										</li>
+										<li>
+											<a href="#">Udaipur (16)</a>
+										</li>
+										<li>
+											<a href="#">Zirakpur (20)</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+									Massage in India
+								</button>
+							</h2>
+							<div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+								<div class="accordion-body">
+									<ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+										<li>
+											<a href="#">Agra (21)</a>
+										</li>
+										<li>
+											<a href="#">Ahmedabad (18)</a>
+										</li>
+										<li>
+											<a href="#">Ajmer (21)</a>
+										</li>
+										<li>
+											<a href="#">Amritsar (20)</a>
+										</li>
+										<li>
+											<a href="#">Bangalore (22)</a>
+										</li>
+										<li>
+											<a href="#">Bhopal (16)</a>
+										</li>
+										<li>
+											<a href="#">Bhubaneswar (15)</a>
+										</li>
+										<li>
+											<a href="#">Chandigarh (15)</a>
+										</li>
+										<li>
+											<a href="#">Chennai (16)</a>
+										</li>
+										<li>
+											<a href="#">Dehradun (13)</a>
+										</li>
+										<li>
+											<a href="#">Delhi (16)</a>
+										</li>
+										<li>
+											<a href="#">Goa (16)</a>
+										</li>
+										<li>
+											<a href="#">Gurgaon (16)</a>
+										</li>
+										<li>
+											<a href="#">Guwahati (14)</a>
+										</li>
+										<li>
+											<a href="#">Hyderabad (16)</a>
+										</li>
+										<li>
+											<a href="#">Indore (18)</a>
+										</li>
+										<li>
+											<a href="#">Jaipur (18)</a>
+										</li>
+										<li>
+											<a href="#">Jalandhar (9)</a>
+										</li>
+										<li>
+											<a href="#">Jodhpur (18)</a>
+										</li>
+										<li>
+											<a href="#">Kolkata (18)</a>
+										</li>
+										<li>
+											<a href="#">Lucknow (15)</a>
+										</li>
+										<li>
+											<a href="#">Ludhiana (20)</a>
+										</li>
+										<li>
+											<a href="#">Mumbai (18)</a>
+										</li>
+										<li>
+											<a href="#">Nashik (16)</a>
+										</li>
+										<li>
+											<a href="#">Navi Mumbai (14)</a>
+										</li>
+										<li>
+											<a href="#">Noida (18)</a>
+										</li>
+										<li>
+											<a href="#">Panchkula (12)</a>
+										</li>
+										<li>
+											<a href="#">Patna (15)</a>
+										</li>
+										<li>
+											<a href="#">Pune (19)</a>
+										</li>
+										<li>
+											<a href="#">Raipur (13)</a>
+										</li>
+										<li>
+											<a href="#">Rajkot (13)</a>
+										</li>
+										<li>
+											<a href="#">Thane (15)</a>
+										</li>
+										<li>
+											<a href="#">Udaipur (16)</a>
+										</li>
+										<li>
+											<a href="#">Zirakpur (20)</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+									Male Escorts in India
+								</button>
+							</h2>
+							<div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+								<div class="accordion-body">
+									<ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+										<li>
+											<a href="#">Agra (21)</a>
+										</li>
+										<li>
+											<a href="#">Ahmedabad (18)</a>
+										</li>
+										<li>
+											<a href="#">Ajmer (21)</a>
+										</li>
+										<li>
+											<a href="#">Amritsar (20)</a>
+										</li>
+										<li>
+											<a href="#">Bangalore (22)</a>
+										</li>
+										<li>
+											<a href="#">Bhopal (16)</a>
+										</li>
+										<li>
+											<a href="#">Bhubaneswar (15)</a>
+										</li>
+										<li>
+											<a href="#">Chandigarh (15)</a>
+										</li>
+										<li>
+											<a href="#">Chennai (16)</a>
+										</li>
+										<li>
+											<a href="#">Dehradun (13)</a>
+										</li>
+										<li>
+											<a href="#">Delhi (16)</a>
+										</li>
+										<li>
+											<a href="#">Goa (16)</a>
+										</li>
+										<li>
+											<a href="#">Gurgaon (16)</a>
+										</li>
+										<li>
+											<a href="#">Guwahati (14)</a>
+										</li>
+										<li>
+											<a href="#">Hyderabad (16)</a>
+										</li>
+										<li>
+											<a href="#">Indore (18)</a>
+										</li>
+										<li>
+											<a href="#">Jaipur (18)</a>
+										</li>
+										<li>
+											<a href="#">Jalandhar (9)</a>
+										</li>
+										<li>
+											<a href="#">Jodhpur (18)</a>
+										</li>
+										<li>
+											<a href="#">Kolkata (18)</a>
+										</li>
+										<li>
+											<a href="#">Lucknow (15)</a>
+										</li>
+										<li>
+											<a href="#">Ludhiana (20)</a>
+										</li>
+										<li>
+											<a href="#">Mumbai (18)</a>
+										</li>
+										<li>
+											<a href="#">Nashik (16)</a>
+										</li>
+										<li>
+											<a href="#">Navi Mumbai (14)</a>
+										</li>
+										<li>
+											<a href="#">Noida (18)</a>
+										</li>
+										<li>
+											<a href="#">Panchkula (12)</a>
+										</li>
+										<li>
+											<a href="#">Patna (15)</a>
+										</li>
+										<li>
+											<a href="#">Pune (19)</a>
+										</li>
+										<li>
+											<a href="#">Raipur (13)</a>
+										</li>
+										<li>
+											<a href="#">Rajkot (13)</a>
+										</li>
+										<li>
+											<a href="#">Thane (15)</a>
+										</li>
+										<li>
+											<a href="#">Udaipur (16)</a>
+										</li>
+										<li>
+											<a href="#">Zirakpur (20)</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- <div class="col-md-3">
 				<div class="sticky-listing sticky-top">
 					<ul class="list-callgirl">
 						<?php for ($i = 0; $i < 15; $i++) { ?>
@@ -65,7 +416,7 @@
 						<?php } ?>
 					</ul>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </section>

@@ -17,7 +17,7 @@
 <section class="content_section">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-md-8">
+      <div class="col-12">
         <h1 class="pointer_heading text-center px-5">Post Your Adult Classified Ads or Search Hot Call Girls Ads in India</h1>
         <p class="banner_para text-center px-5">Welcome to Masticlubs – It is the best and notable place, where you can post adult classified ads in India.</p>
       </div>
@@ -204,7 +204,7 @@
 </section>
 <!-- Location Listing -->
 <!-- Above Footer -->
-<section class="above_footer">
+<section class="above_footer py-5">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -212,37 +212,346 @@
           <div class="accordion" id="accordionExample">
             <div class="accordion-item">
               <h2 class="accordion-header">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   Call Girls in India
                 </button>
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                  <ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+                    <li>
+                      <a href="#">Agra (21)</a>
+                    </li>
+                    <li>
+                      <a href="#">Ahmedabad (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Ajmer (21)</a>
+                    </li>
+                    <li>
+                      <a href="#">Amritsar (20)</a>
+                    </li>
+                    <li>
+                      <a href="#">Bangalore (22)</a>
+                    </li>
+                    <li>
+                      <a href="#">Bhopal (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Bhubaneswar (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Chandigarh (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Chennai (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Dehradun (13)</a>
+                    </li>
+                    <li>
+                      <a href="#">Delhi (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Goa (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Gurgaon (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Guwahati (14)</a>
+                    </li>
+                    <li>
+                      <a href="#">Hyderabad (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Indore (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Jaipur (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Jalandhar (9)</a>
+                    </li>
+                    <li>
+                      <a href="#">Jodhpur (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Kolkata (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Lucknow (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Ludhiana (20)</a>
+                    </li>
+                    <li>
+                      <a href="#">Mumbai (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Nashik (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Navi Mumbai (14)</a>
+                    </li>
+                    <li>
+                      <a href="#">Noida (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Panchkula (12)</a>
+                    </li>
+                    <li>
+                      <a href="#">Patna (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Pune (19)</a>
+                    </li>
+                    <li>
+                      <a href="#">Raipur (13)</a>
+                    </li>
+                    <li>
+                      <a href="#">Rajkot (13)</a>
+                    </li>
+                    <li>
+                      <a href="#">Thane (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Udaipur (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Zirakpur (20)</a>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
             <div class="accordion-item">
               <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                   Massage in India
                 </button>
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                  <ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+                    <li>
+                      <a href="#">Agra (21)</a>
+                    </li>
+                    <li>
+                      <a href="#">Ahmedabad (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Ajmer (21)</a>
+                    </li>
+                    <li>
+                      <a href="#">Amritsar (20)</a>
+                    </li>
+                    <li>
+                      <a href="#">Bangalore (22)</a>
+                    </li>
+                    <li>
+                      <a href="#">Bhopal (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Bhubaneswar (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Chandigarh (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Chennai (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Dehradun (13)</a>
+                    </li>
+                    <li>
+                      <a href="#">Delhi (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Goa (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Gurgaon (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Guwahati (14)</a>
+                    </li>
+                    <li>
+                      <a href="#">Hyderabad (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Indore (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Jaipur (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Jalandhar (9)</a>
+                    </li>
+                    <li>
+                      <a href="#">Jodhpur (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Kolkata (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Lucknow (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Ludhiana (20)</a>
+                    </li>
+                    <li>
+                      <a href="#">Mumbai (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Nashik (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Navi Mumbai (14)</a>
+                    </li>
+                    <li>
+                      <a href="#">Noida (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Panchkula (12)</a>
+                    </li>
+                    <li>
+                      <a href="#">Patna (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Pune (19)</a>
+                    </li>
+                    <li>
+                      <a href="#">Raipur (13)</a>
+                    </li>
+                    <li>
+                      <a href="#">Rajkot (13)</a>
+                    </li>
+                    <li>
+                      <a href="#">Thane (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Udaipur (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Zirakpur (20)</a>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
             <div class="accordion-item">
               <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                   Male Escorts in India
                 </button>
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                  <ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+                    <li>
+                      <a href="#">Agra (21)</a>
+                    </li>
+                    <li>
+                      <a href="#">Ahmedabad (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Ajmer (21)</a>
+                    </li>
+                    <li>
+                      <a href="#">Amritsar (20)</a>
+                    </li>
+                    <li>
+                      <a href="#">Bangalore (22)</a>
+                    </li>
+                    <li>
+                      <a href="#">Bhopal (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Bhubaneswar (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Chandigarh (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Chennai (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Dehradun (13)</a>
+                    </li>
+                    <li>
+                      <a href="#">Delhi (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Goa (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Gurgaon (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Guwahati (14)</a>
+                    </li>
+                    <li>
+                      <a href="#">Hyderabad (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Indore (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Jaipur (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Jalandhar (9)</a>
+                    </li>
+                    <li>
+                      <a href="#">Jodhpur (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Kolkata (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Lucknow (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Ludhiana (20)</a>
+                    </li>
+                    <li>
+                      <a href="#">Mumbai (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Nashik (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Navi Mumbai (14)</a>
+                    </li>
+                    <li>
+                      <a href="#">Noida (18)</a>
+                    </li>
+                    <li>
+                      <a href="#">Panchkula (12)</a>
+                    </li>
+                    <li>
+                      <a href="#">Patna (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Pune (19)</a>
+                    </li>
+                    <li>
+                      <a href="#">Raipur (13)</a>
+                    </li>
+                    <li>
+                      <a href="#">Rajkot (13)</a>
+                    </li>
+                    <li>
+                      <a href="#">Thane (15)</a>
+                    </li>
+                    <li>
+                      <a href="#">Udaipur (16)</a>
+                    </li>
+                    <li>
+                      <a href="#">Zirakpur (20)</a>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>

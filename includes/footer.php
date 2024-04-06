@@ -6,7 +6,7 @@
       <div class="col-md-6"></div>
     </div>
     <div class="row">
-      <div class="col-md-5 footer_menu_list">
+      <div class="col-12 footer_menu_list">
         <ul class="footer-menu">
           <li>
             <a href="#" class="text-decoration-none text-white">Home</a>
@@ -32,7 +32,7 @@
     </div>
     <div class="row mt-3">
       <div class="col-md-12">
-        <p class="text-center text-white mb-0">Copyright © <span id="year">2024</span> All Rights Reserved by <a href="https://in.masticlubs.com/" class="text-white text-decoration-none">Masticlubs Network</a></p>
+        <p class="text-center text-white mb-0">Copyright &copy; <?= date('Y'); ?> All Rights Reserved by <a href="https://in.masticlubs.com/" class="text-white text-decoration-none">Masticlubs Network</a></p>
       </div>
     </div>
   </div>
