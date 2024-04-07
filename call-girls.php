@@ -1,6 +1,6 @@
 <?php include_once('./includes/header.php') ?>
 
-<section class="callgirl-banner">
+<!-- <section class="callgirl-banner">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-md-10">
@@ -10,7 +10,14 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
+
+
+<div class="container py-4">
+	<!-- <button type="button" class="btn bttn btn-warning text-center" data-bs-toggle="modal" data-bs-target="#buttonClickModal">Search Now</button> -->
+	<h1 class="text-primary">Page Title</h1>
+</div>
+
 
 <!-- breadcrubms -->
 <div class="container py-2">
@@ -22,12 +29,46 @@
 	</nav>
 </div>
 
+<div class="container py-3">
+	<div class="row">
+		<div class="col-12">
+			<div class="h6 mb-3 fw-semibold">SUPERTOP STORIES</div>
+			<div id="stories" class="d-flex gap-2 overflow-x-auto overflow-y-hidden pb-1">
+				<?php for ($i = 0; $i < 10; $i++) { ?>
+					<div class="stories_thumb">
+						<a href="https://ii-static.imgskk.com/post/9d/58/9d58a6bba44f469293a3d5776dcf0046.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" data-fancybox="story">
+							<img src="https://ii-static.imgskk.com/post/9d/58/9d58a6bba44f469293a3d5776dcf0046.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" alt="Happy ending massage" draggable="false" class="img-fluid" />
+							<span class="badge badge-supertop">Super Top</span>
+							<div class="user-username">Happy ending massage</div>
+						</a>
+					</div>
+					<div class="stories_thumb">
+						<a href="https://ii-static.imgskk.com/post/0a/a2/0aa2db481574449aba286d0f36e43c47.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" data-fancybox="story">
+							<img src="https://ii-static.imgskk.com/post/0a/a2/0aa2db481574449aba286d0f36e43c47.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" alt="ADYAR !! EROTIC FULL ENJOYMENT BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICES" draggable="false" loading="lazy" class="img-fluid" />
+							<span class="badge badge-supertop">Super Top</span>
+							<div class="user-username">ADYAR !! EROTIC FULL ENJOYMENT BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICES</div>
+						</a>
+					</div>
+					<div class="stories_thumb">
+						<a href="https://ii-static.imgskk.com/post/85/8b/858b4fea6ce14558b69fb3387527d3b1.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" data-fancybox="story">
+							<img src="https://ii-static.imgskk.com/post/85/8b/858b4fea6ce14558b69fb3387527d3b1.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" alt="INCREDIBLE BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICEC" draggable="false" loading="lazy" class="img-fluid" />
+							<span class="badge badge-supertop">Super Top</span>
+							<div class="user-username">INCREDIBLE BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICEC</div>
+						</a>
+					</div>
+				<?php } ?>
+			</div>
+		</div>
+	</div>
+</div>
+
 <section class="call-girls-listing">
 	<div class="container">
 		<div class="row gy-5">
 			<div class="col-md-12">
 				<?php for ($i = 0; $i < 6; $i++) { ?>
 					<div class="card mb-3">
+						<span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
 						<div class="row g-0">
 							<div class="col-md-4 col-lg-3 col-xl-2">
 								<a href="./call-girls-details.php">

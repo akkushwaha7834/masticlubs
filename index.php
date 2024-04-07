@@ -27,7 +27,7 @@
         </p>
       </div>
     </div>
-    <div class="row mt-4">
+    <div class="row mt-4 gy-5">
       <div class="col-md-4">
         <div class="product">
           <div class="image-box">
@@ -147,7 +147,10 @@
 <!-- Location Listing -->
 <section class="location_listing">
   <div class="container">
-    <div class="row justify-content-center">
+    <div class="row justify-content-center gy-4">
+      <div class="col-12 text-center">
+        <h2>Section heading</h2>
+      </div>
       <div class="col-md-8">
         <p class="text-center location_para">
           Welcome to Masticlubs.com Adult Call Girls Service Directory Your confided in brand for grown-up adult advertisements in India. Would you like to savor some sexual and erotic escort Services?
@@ -206,7 +209,10 @@
 <!-- Above Footer -->
 <section class="above_footer py-5">
   <div class="container">
-    <div class="row">
+    <div class="row gy-3">
+      <div class="col-12">
+        <h2>Section heading</h2>
+      </div>
       <div class="col-md-12">
         <div class="related_category_ads">
           <div class="accordion" id="accordionExample">
