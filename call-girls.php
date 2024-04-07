@@ -33,7 +33,7 @@
 	<div class="row">
 		<div class="col-12">
 			<div class="h6 mb-3 fw-semibold">SUPERTOP STORIES</div>
-			<div id="stories" class="d-flex gap-2 overflow-x-auto overflow-y-hidden pb-1">
+			<div id="stories" class="d-flex gap-3 overflow-x-auto overflow-y-hidden pb-1">
 				<?php for ($i = 0; $i < 10; $i++) { ?>
 					<div class="stories_thumb">
 						<a href="https://ii-static.imgskk.com/post/9d/58/9d58a6bba44f469293a3d5776dcf0046.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" data-fancybox="story">
