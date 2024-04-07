@@ -194,6 +194,11 @@ a {
 }
 
 /*Header*/
+header {
+    top: -100px;
+    transition: all .3s linear;
+}
+
 .navbar-nav.menu_bar {
     display: flex;
     align-items: center;
@@ -214,20 +219,11 @@ a {
     justify-content: center;
     gap: .4rem 1rem;
     flex-wrap: wrap;
-    margin: 0;
-}
-
-.footer_menu_list {
-    margin: 0 auto;
 }
 
 .footer {
     padding: 20px 0;
     background: var(--primary);
-}
-
-.footer-menu li {
-    list-style: none;
 }
 
 .footer-menu li:last-child::after {
@@ -246,10 +242,19 @@ a {
     text-decoration: none;
 }
 
+.social-icons>a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: var(--white);
+    line-height: 38px;
+}
+
 /* Banner */
 .home-banner {
     background: url("../images/mumbai-escort-service.jpg");
-    color: #fff;
+    color: var(--white);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 100px 0px;
@@ -259,7 +264,7 @@ a {
 
 .callgirl-banner {
     background: url("../images/about-slider1.jpg");
-    color: #fff;
+    color: var(--white);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px 0px;
@@ -273,7 +278,7 @@ a {
     height: 100%;
     width: 100%;
     top: 0;
-    background: radial-gradient(#274690, #0077b6);
+    background: radial-gradient(var(--primary), var(--secondary));
     left: 0;
     opacity: 0.5;
     z-index: 0;
@@ -286,7 +291,7 @@ a {
     height: 100%;
     width: 100%;
     top: 0;
-    background: radial-gradient(#274690, #0077b6);
+    background: radial-gradient(var(--primary), var(--secondary));
     left: 0;
     opacity: 0.5;
     z-index: 0;
@@ -303,7 +308,7 @@ a {
     padding-inline: 1.5rem;
     color: var(--primary);
     font-weight: 600;
-    background: #fff;
+    background: var(--white);
     border: 1px solid var(--primary);
     border-radius: 50px;
     line-height: 40px;

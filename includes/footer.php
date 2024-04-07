@@ -5,9 +5,9 @@
       <div class="col-md-6"></div>
       <div class="col-md-6"></div>
     </div>
-    <div class="row">
+    <div class="row gy-3">
       <div class="col-12 footer_menu_list">
-        <ul class="footer-menu">
+        <ul class="footer-menu list-unstyled mb-0">
           <li>
             <a href="#" class="text-decoration-none text-white">Home</a>
           </li>
@@ -29,8 +29,23 @@
           </li>
         </ul>
       </div>
-    </div>
-    <div class="row mt-3">
+      <div class="col-12 text-center text-white">
+        <div class="mb-2">Follow us:</div>
+        <div class="d-flex gap-2 justify-content-center social-icons">
+          <a href="" target="_blank">
+            <i class="fa-brands fa-facebook-f"></i>
+          </a>
+          <a href="" target="_blank">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a href="" target="_blank">
+            <i class="fa-brands fa-x-twitter"></i>
+          </a>
+          <a href="" target="_blank">
+            <i class="fa-brands fa-youtube"></i>
+          </a>
+        </div>
+      </div>
       <div class="col-md-12">
         <p class="text-center text-white mb-0">Copyright &copy; <?= date('Y'); ?> All Rights Reserved by <a href="https://in.masticlubs.com/" class="text-white text-decoration-none">Masticlubs Network</a></p>
       </div>

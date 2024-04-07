@@ -50,12 +50,12 @@
                 </div>
             </div>
             <div class="col-md-3">
-                <div class="sticky-top z-1">
+                <div class="sticky-top z-1 top-25">
                     <div class="d-flex flex-column gap-3 mb-5">
                         <a href="#" class="btn bttn btn-primary"><i class="fa fa-phone"></i> Phone</a>
                         <a href="#" class="btn bttn btn-primary"><i class="fa-brands fa-whatsapp"></i> Whatsapp</a>
                     </div>
-                    <div class="share-ad">
+                    <div class="share-ad text-center">
                         <h5 class="mb-3">Share ad</h5>
                         <a href="#" class="btn btn-success rounded-circle">
                             <i class="fa-brands fa-whatsapp"></i>
