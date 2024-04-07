@@ -226,106 +226,106 @@
                 <div class="accordion-body">
                   <ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
                     <li>
-                      <a href="#">Agra (21)</a>
+                      <a href="#">Agra</a>
                     </li>
                     <li>
-                      <a href="#">Ahmedabad (18)</a>
+                      <a href="#">Ahmedabad</a>
                     </li>
                     <li>
-                      <a href="#">Ajmer (21)</a>
+                      <a href="#">Ajmer</a>
                     </li>
                     <li>
-                      <a href="#">Amritsar (20)</a>
+                      <a href="#">Amritsar</a>
                     </li>
                     <li>
-                      <a href="#">Bangalore (22)</a>
+                      <a href="#">Bangalore</a>
                     </li>
                     <li>
-                      <a href="#">Bhopal (16)</a>
+                      <a href="#">Bhopal</a>
                     </li>
                     <li>
-                      <a href="#">Bhubaneswar (15)</a>
+                      <a href="#">Bhubaneswar</a>
                     </li>
                     <li>
-                      <a href="#">Chandigarh (15)</a>
+                      <a href="#">Chandigarh</a>
                     </li>
                     <li>
-                      <a href="#">Chennai (16)</a>
+                      <a href="#">Chennai</a>
                     </li>
                     <li>
-                      <a href="#">Dehradun (13)</a>
+                      <a href="#">Dehradun</a>
                     </li>
                     <li>
-                      <a href="#">Delhi (16)</a>
+                      <a href="#">Delhi</a>
                     </li>
                     <li>
-                      <a href="#">Goa (16)</a>
+                      <a href="#">Goa</a>
                     </li>
                     <li>
-                      <a href="#">Gurgaon (16)</a>
+                      <a href="#">Gurgaon</a>
                     </li>
                     <li>
-                      <a href="#">Guwahati (14)</a>
+                      <a href="#">Guwahati</a>
                     </li>
                     <li>
-                      <a href="#">Hyderabad (16)</a>
+                      <a href="#">Hyderabad</a>
                     </li>
                     <li>
-                      <a href="#">Indore (18)</a>
+                      <a href="#">Indore</a>
                     </li>
                     <li>
-                      <a href="#">Jaipur (18)</a>
+                      <a href="#">Jaipur</a>
                     </li>
                     <li>
-                      <a href="#">Jalandhar (9)</a>
+                      <a href="#">Jalandhar</a>
                     </li>
                     <li>
-                      <a href="#">Jodhpur (18)</a>
+                      <a href="#">Jodhpur</a>
                     </li>
                     <li>
-                      <a href="#">Kolkata (18)</a>
+                      <a href="#">Kolkata</a>
                     </li>
                     <li>
-                      <a href="#">Lucknow (15)</a>
+                      <a href="#">Lucknow</a>
                     </li>
                     <li>
-                      <a href="#">Ludhiana (20)</a>
+                      <a href="#">Ludhiana</a>
                     </li>
                     <li>
-                      <a href="#">Mumbai (18)</a>
+                      <a href="#">Mumbai</a>
                     </li>
                     <li>
-                      <a href="#">Nashik (16)</a>
+                      <a href="#">Nashik</a>
                     </li>
                     <li>
-                      <a href="#">Navi Mumbai (14)</a>
+                      <a href="#">Navi Mumbai</a>
                     </li>
                     <li>
-                      <a href="#">Noida (18)</a>
+                      <a href="#">Noida</a>
                     </li>
                     <li>
-                      <a href="#">Panchkula (12)</a>
+                      <a href="#">Panchkula</a>
                     </li>
                     <li>
-                      <a href="#">Patna (15)</a>
+                      <a href="#">Patna</a>
                     </li>
                     <li>
-                      <a href="#">Pune (19)</a>
+                      <a href="#">Pune</a>
                     </li>
                     <li>
-                      <a href="#">Raipur (13)</a>
+                      <a href="#">Raipur</a>
                     </li>
                     <li>
-                      <a href="#">Rajkot (13)</a>
+                      <a href="#">Rajkot</a>
                     </li>
                     <li>
-                      <a href="#">Thane (15)</a>
+                      <a href="#">Thane</a>
                     </li>
                     <li>
-                      <a href="#">Udaipur (16)</a>
+                      <a href="#">Udaipur</a>
                     </li>
                     <li>
-                      <a href="#">Zirakpur (20)</a>
+                      <a href="#">Zirakpur</a>
                     </li>
                   </ul>
                 </div>
@@ -341,106 +341,106 @@
                 <div class="accordion-body">
                   <ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
                     <li>
-                      <a href="#">Agra (21)</a>
+                      <a href="#">Agra</a>
                     </li>
                     <li>
-                      <a href="#">Ahmedabad (18)</a>
+                      <a href="#">Ahmedabad</a>
                     </li>
                     <li>
-                      <a href="#">Ajmer (21)</a>
+                      <a href="#">Ajmer</a>
                     </li>
                     <li>
-                      <a href="#">Amritsar (20)</a>
+                      <a href="#">Amritsar</a>
                     </li>
                     <li>
-                      <a href="#">Bangalore (22)</a>
+                      <a href="#">Bangalore</a>
                     </li>
                     <li>
-                      <a href="#">Bhopal (16)</a>
+                      <a href="#">Bhopal</a>
                     </li>
                     <li>
-                      <a href="#">Bhubaneswar (15)</a>
+                      <a href="#">Bhubaneswar</a>
                     </li>
                     <li>
-                      <a href="#">Chandigarh (15)</a>
+                      <a href="#">Chandigarh</a>
                     </li>
                     <li>
-                      <a href="#">Chennai (16)</a>
+                      <a href="#">Chennai</a>
                     </li>
                     <li>
-                      <a href="#">Dehradun (13)</a>
+                      <a href="#">Dehradun</a>
                     </li>
                     <li>
-                      <a href="#">Delhi (16)</a>
+                      <a href="#">Delhi</a>
                     </li>
                     <li>
-                      <a href="#">Goa (16)</a>
+                      <a href="#">Goa</a>
                     </li>
                     <li>
-                      <a href="#">Gurgaon (16)</a>
+                      <a href="#">Gurgaon</a>
                     </li>
                     <li>
-                      <a href="#">Guwahati (14)</a>
+                      <a href="#">Guwahati</a>
                     </li>
                     <li>
-                      <a href="#">Hyderabad (16)</a>
+                      <a href="#">Hyderabad</a>
                     </li>
                     <li>
-                      <a href="#">Indore (18)</a>
+                      <a href="#">Indore</a>
                     </li>
                     <li>
-                      <a href="#">Jaipur (18)</a>
+                      <a href="#">Jaipur</a>
                     </li>
                     <li>
-                      <a href="#">Jalandhar (9)</a>
+                      <a href="#">Jalandhar</a>
                     </li>
                     <li>
-                      <a href="#">Jodhpur (18)</a>
+                      <a href="#">Jodhpur</a>
                     </li>
                     <li>
-                      <a href="#">Kolkata (18)</a>
+                      <a href="#">Kolkata</a>
                     </li>
                     <li>
-                      <a href="#">Lucknow (15)</a>
+                      <a href="#">Lucknow</a>
                     </li>
                     <li>
-                      <a href="#">Ludhiana (20)</a>
+                      <a href="#">Ludhiana</a>
                     </li>
                     <li>
-                      <a href="#">Mumbai (18)</a>
+                      <a href="#">Mumbai</a>
                     </li>
                     <li>
-                      <a href="#">Nashik (16)</a>
+                      <a href="#">Nashik</a>
                     </li>
                     <li>
-                      <a href="#">Navi Mumbai (14)</a>
+                      <a href="#">Navi Mumbai</a>
                     </li>
                     <li>
-                      <a href="#">Noida (18)</a>
+                      <a href="#">Noida</a>
                     </li>
                     <li>
-                      <a href="#">Panchkula (12)</a>
+                      <a href="#">Panchkula</a>
                     </li>
                     <li>
-                      <a href="#">Patna (15)</a>
+                      <a href="#">Patna</a>
                     </li>
                     <li>
-                      <a href="#">Pune (19)</a>
+                      <a href="#">Pune</a>
                     </li>
                     <li>
-                      <a href="#">Raipur (13)</a>
+                      <a href="#">Raipur</a>
                     </li>
                     <li>
-                      <a href="#">Rajkot (13)</a>
+                      <a href="#">Rajkot</a>
                     </li>
                     <li>
-                      <a href="#">Thane (15)</a>
+                      <a href="#">Thane</a>
                     </li>
                     <li>
-                      <a href="#">Udaipur (16)</a>
+                      <a href="#">Udaipur</a>
                     </li>
                     <li>
-                      <a href="#">Zirakpur (20)</a>
+                      <a href="#">Zirakpur</a>
                     </li>
                   </ul>
                 </div>
@@ -456,106 +456,106 @@
                 <div class="accordion-body">
                   <ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
                     <li>
-                      <a href="#">Agra (21)</a>
+                      <a href="#">Agra</a>
                     </li>
                     <li>
-                      <a href="#">Ahmedabad (18)</a>
+                      <a href="#">Ahmedabad</a>
                     </li>
                     <li>
-                      <a href="#">Ajmer (21)</a>
+                      <a href="#">Ajmer</a>
                     </li>
                     <li>
-                      <a href="#">Amritsar (20)</a>
+                      <a href="#">Amritsar</a>
                     </li>
                     <li>
-                      <a href="#">Bangalore (22)</a>
+                      <a href="#">Bangalore</a>
                     </li>
                     <li>
-                      <a href="#">Bhopal (16)</a>
+                      <a href="#">Bhopal</a>
                     </li>
                     <li>
-                      <a href="#">Bhubaneswar (15)</a>
+                      <a href="#">Bhubaneswar</a>
                     </li>
                     <li>
-                      <a href="#">Chandigarh (15)</a>
+                      <a href="#">Chandigarh</a>
                     </li>
                     <li>
-                      <a href="#">Chennai (16)</a>
+                      <a href="#">Chennai</a>
                     </li>
                     <li>
-                      <a href="#">Dehradun (13)</a>
+                      <a href="#">Dehradun</a>
                     </li>
                     <li>
-                      <a href="#">Delhi (16)</a>
+                      <a href="#">Delhi</a>
                     </li>
                     <li>
-                      <a href="#">Goa (16)</a>
+                      <a href="#">Goa</a>
                     </li>
                     <li>
-                      <a href="#">Gurgaon (16)</a>
+                      <a href="#">Gurgaon</a>
                     </li>
                     <li>
-                      <a href="#">Guwahati (14)</a>
+                      <a href="#">Guwahati</a>
                     </li>
                     <li>
-                      <a href="#">Hyderabad (16)</a>
+                      <a href="#">Hyderabad</a>
                     </li>
                     <li>
-                      <a href="#">Indore (18)</a>
+                      <a href="#">Indore</a>
                     </li>
                     <li>
-                      <a href="#">Jaipur (18)</a>
+                      <a href="#">Jaipur</a>
                     </li>
                     <li>
-                      <a href="#">Jalandhar (9)</a>
+                      <a href="#">Jalandhar</a>
                     </li>
                     <li>
-                      <a href="#">Jodhpur (18)</a>
+                      <a href="#">Jodhpur</a>
                     </li>
                     <li>
-                      <a href="#">Kolkata (18)</a>
+                      <a href="#">Kolkata</a>
                     </li>
                     <li>
-                      <a href="#">Lucknow (15)</a>
+                      <a href="#">Lucknow</a>
                     </li>
                     <li>
-                      <a href="#">Ludhiana (20)</a>
+                      <a href="#">Ludhiana</a>
                     </li>
                     <li>
-                      <a href="#">Mumbai (18)</a>
+                      <a href="#">Mumbai</a>
                     </li>
                     <li>
-                      <a href="#">Nashik (16)</a>
+                      <a href="#">Nashik</a>
                     </li>
                     <li>
-                      <a href="#">Navi Mumbai (14)</a>
+                      <a href="#">Navi Mumbai</a>
                     </li>
                     <li>
-                      <a href="#">Noida (18)</a>
+                      <a href="#">Noida</a>
                     </li>
                     <li>
-                      <a href="#">Panchkula (12)</a>
+                      <a href="#">Panchkula</a>
                     </li>
                     <li>
-                      <a href="#">Patna (15)</a>
+                      <a href="#">Patna</a>
                     </li>
                     <li>
-                      <a href="#">Pune (19)</a>
+                      <a href="#">Pune</a>
                     </li>
                     <li>
-                      <a href="#">Raipur (13)</a>
+                      <a href="#">Raipur</a>
                     </li>
                     <li>
-                      <a href="#">Rajkot (13)</a>
+                      <a href="#">Rajkot</a>
                     </li>
                     <li>
-                      <a href="#">Thane (15)</a>
+                      <a href="#">Thane</a>
                     </li>
                     <li>
-                      <a href="#">Udaipur (16)</a>
+                      <a href="#">Udaipur</a>
                     </li>
                     <li>
-                      <a href="#">Zirakpur (20)</a>
+                      <a href="#">Zirakpur</a>
                     </li>
                   </ul>
                 </div>
