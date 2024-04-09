@@ -31,7 +31,7 @@
       <div class="col-md-4">
         <div class="product">
           <div class="image-box">
-            <a href="excorts.php">
+            <a href="escorts.php">
               <div class="images image-1"></div>
             </a>
           </div>
@@ -39,7 +39,7 @@
             <div class="image-box-with-text">
               <img src="images/call-girls.png" width="10%">
               <h3 class="text-white">
-                <a href="excorts.php" class="text-decoration-none text-white">Escorts</a>
+                <a href="escorts.php" class="text-decoration-none text-white">Escorts</a>
               </h3>
             </div>
             <div class="image-content">
@@ -63,7 +63,7 @@
           </div>
         </div>
         <div class="read_more">
-          <a href="excorts.php" class="read_more_bttn text-decoration-none text-white">Read More</a>
+          <a href="escorts.php" class="read_more_bttn text-decoration-none text-white">Read More</a>
         </div>
       </div>
       <div class="col-md-4">

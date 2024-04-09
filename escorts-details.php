@@ -17,7 +17,7 @@
     <nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>>'; ">
         <ol class="breadcrumb mb-0">
             <li class="breadcrumb-item"><a href="./">Home</a></li>
-            <li class="breadcrumb-item"><a href="./excorts.php">Escorts</a></li>
+            <li class="breadcrumb-item"><a href="./escorts.php">Escorts</a></li>
             <li class="breadcrumb-item active" aria-current="page">Escorts Details</li>
         </ol>
     </nav>
@@ -68,14 +68,14 @@
                         <span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
                         <div class="row g-0">
                             <div class="col-md-4 col-lg-3 col-xl-2">
-                                <a href="./excorts-details.php">
+                                <a href="./escorts-details.php">
                                     <img src="https://in.masticlubs.com/uploads/model_image/251292/thumbnail/93434x.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
                                 </a>
                             </div>
                             <div class="col-md-8 col-lg-9 col-xl-10">
                                 <div class="card-body">
                                     <h5 class="card-title">
-                                        <a href="./excorts-details.php">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</a>
+                                        <a href="./escorts-details.php">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</a>
                                     </h5>
                                     <p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
                                     <p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
