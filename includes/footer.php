@@ -89,7 +89,7 @@
                 <div class="form-group">
                   <select class="form-select" id="service_category">
                     <option>Select Category</option>
-                    <option value="Call Girls">Call Girls</option>
+                    <option value="Escorts">Escorts</option>
                     <option value="Male Escorts">Male Escorts</option>
                     <option value="Massage">Massage</option>
                   </select>
