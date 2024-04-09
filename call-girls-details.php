@@ -12,11 +12,6 @@
     </div>
 </section> -->
 
-<div class="container py-4">
-    <!-- <button type="button" class="btn bttn btn-warning text-center" data-bs-toggle="modal" data-bs-target="#buttonClickModal">Search Now</button> -->
-    <h1 class="text-primary">Page Title</h1>
-</div>
-
 <!-- breadcrubms -->
 <div class="container py-2">
     <nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>>'; ">
@@ -50,7 +45,7 @@
                 </div>
             </div>
             <div class="col-md-3">
-                <div class="sticky-top z-1 top-25">
+                <div class="sticky-top z-1 top-70">
                     <div class="d-flex flex-column gap-3 mb-5">
                         <a href="#" class="btn bttn btn-primary"><i class="fa fa-phone"></i> Phone</a>
                         <a href="#" class="btn bttn btn-primary"><i class="fa-brands fa-whatsapp"></i> Whatsapp</a>
@@ -68,32 +63,35 @@
             </div>
             <div class="col-12">
                 <h3 class="mb-4 mt-5">Similar Profiles</h3>
-                <div class="d-flex gap-2">
-                    <a href="#">
-                        <figure class="similar-profile mb-0">
-                            <img src="https://in.masticlubs.com/uploads/model_image/251292/thumbnail/93434x.jpg" alt="" class="w-100 img-fuild" />
-                            <figcaption class="text-center">
-                                <span class="">Name</span>
-                            </figcaption>
-                        </figure>
-                    </a>
-                    <a href="#">
-                        <figure class="similar-profile mb-0">
-                            <img src="https://cdn.chekzi.com/content/images/call-girl-39-3.jpg" alt="" class="w-100 img-fuild" />
-                            <figcaption class="text-center">
-                                <span class="">Name</span>
-                            </figcaption>
-                        </figure>
-                    </a>
-                    <a href="#">
-                        <figure class="similar-profile mb-0">
-                            <img src="https://cdn.chekzi.com/content/images/call-girl-38-2.jpg" alt="" class="w-100 img-fuild" />
-                            <figcaption class="text-center">
-                                <span class="">Name</span>
-                            </figcaption>
-                        </figure>
-                    </a>
-                </div>
+                <?php for ($i = 0; $i < 4; $i++) { ?>
+                    <div class="card mb-3">
+                        <span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
+                        <div class="row g-0">
+                            <div class="col-md-4 col-lg-3 col-xl-2">
+                                <a href="./call-girls-details.php">
+                                    <img src="https://in.masticlubs.com/uploads/model_image/251292/thumbnail/93434x.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
+                                </a>
+                            </div>
+                            <div class="col-md-8 col-lg-9 col-xl-10">
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        <a href="./call-girls-details.php">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</a>
+                                    </h5>
+                                    <p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
+                                    <p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
+                                    <div class="d-flex gap-2 justify-content-end contact-icons">
+                                        <a href="#">
+                                            <i class="fa-brands fa-whatsapp"></i>
+                                        </a>
+                                        <a href="#">
+                                            <i class="fa fa-phone"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <?php } ?>
             </div>
         </div>
     </div>

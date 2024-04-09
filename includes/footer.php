@@ -84,46 +84,49 @@
       <div class="modal-body">
         <form method="POST" name="Search">
           <div class="container">
-            <div class="row">
-              <div class="col-md-6  mb-3">
+            <div class="row gy-3">
+              <div class="col-md-6">
                 <div class="form-group">
-                  <select class="form-control" id="service_category">
-                    <option>Call Girls</option>
-                    <option>Male Escorts</option>
-                    <option>Massage</option>
+                  <select class="form-select" id="service_category">
+                    <option>Select Category</option>
+                    <option value="Call Girls">Call Girls</option>
+                    <option value="Male Escorts">Male Escorts</option>
+                    <option value="Massage">Massage</option>
                   </select>
                 </div>
               </div>
-              <div class="col-md-6  mb-3">
+              <div class="col-md-6">
                 <div class="form-group">
-                  <select class="form-control" id="service_state">
-                    <option>Uttar Pradesh</option>
-                    <option>Delhi</option>
-                    <option>Haryana</option>
-                    <option>Bihar</option>
-                    <option>Goa</option>
+                  <select class="form-select" id="service_state">
+                    <option>Select State</option>
+                    <option value="Uttar Pradesh">Uttar Pradesh</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Haryana">Haryana</option>
+                    <option value="Bihar">Bihar</option>
+                    <option value="Goa">Goa</option>
                   </select>
                 </div>
               </div>
-            </div>
-            <div class="row">
-              <div class="col-md-6  mb-3">
+              <div class="col-md-6">
                 <div class="form-group">
-                  <select class="form-control" id="service_city">
-                    <option>Ghaziabad</option>
-                    <option>Lucknow</option>
-                    <option>Buxar</option>
-                    <option>Ambala</option>
+                  <select class="form-select" id="service_city">
+                    <option>Select City</option>
+                    <option value="Ghaziabad">Ghaziabad</option>
+                    <option value="Lucknow">Lucknow</option>
+                    <option value="Buxar">Buxar</option>
+                    <option value="Ambala">Ambala</option>
                   </select>
                 </div>
               </div>
-              <div class="col-md-6  mb-3">
+              <div class="col-md-6">
                 <div class="form-group">
-                  <input class="form-control" type="text" placeholder="Looking for...">
+                  <select class="form-select" id="service_area">
+                    <option>Select Area</option>
+                    <option value="Ghaziabad">Ghaziabad</option>
+                    <option value="Lucknow">Lucknow</option>
+                  </select>
                 </div>
               </div>
-            </div>
-            <div class="row mb-3">
               <div class="col-md-12">
                 <button class="btn bttn btn-primary w-50 search_bttn" type="submit">Search</button>
               </div>
@@ -154,10 +157,10 @@
                 </div>
               </div>
               <div class="col-md-12">
-                <p class="text-center mt-2">Have an account yet? <br /><a href="login.html" class="btn bttn btn-primary w-50 mt-3 text-decoration-none">Login</a></p>
+                <p class="text-center mt-2">Have an account yet? <br /><a href="login.php" class="btn bttn btn-primary w-50 mt-3 text-decoration-none">Login</a></p>
               </div>
               <div class="col-md-12  mb-2">
-                <p class="text-center">Don't have an account yet? <br /> <a href="signup.html" class="btn bttn btn-primary w-50 mt-3 text-decoration-none">Signup</a></p>
+                <p class="text-center">Don't have an account yet? <br /> <a href="signup.php" class="btn bttn btn-primary w-50 mt-3 text-decoration-none">Signup</a></p>
               </div>
             </div>
           </div>

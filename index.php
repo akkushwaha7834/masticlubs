@@ -211,7 +211,10 @@
   <div class="container">
     <div class="row gy-3">
       <div class="col-12">
-        <h2>Section heading</h2>
+        <div class="text-center">
+          <h2>Section heading</h2>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam molestias repudiandae ipsum, officiis voluptatum minus rem earum minima esse unde porro. Quia accusamus, magnam ipsa nesciunt quis ea corrupti veniam.</p>
+        </div>
       </div>
       <div class="col-md-12">
         <div class="related_category_ads">
@@ -219,7 +222,7 @@
             <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  Call Girls in India
+                  Escorts in India
                 </button>
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">

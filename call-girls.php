@@ -12,13 +12,6 @@
 	</div>
 </section> -->
 
-
-<div class="container py-4">
-	<!-- <button type="button" class="btn bttn btn-warning text-center" data-bs-toggle="modal" data-bs-target="#buttonClickModal">Search Now</button> -->
-	<h1 class="text-primary">Page Title</h1>
-</div>
-
-
 <!-- breadcrubms -->
 <div class="container py-2">
 	<nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>>'; ">
@@ -65,7 +58,11 @@
 <section class="call-girls-listing">
 	<div class="container">
 		<div class="row gy-5">
-			<div class="col-md-12">
+			<div class="col-12">
+				<h1 class="text-primary">Page Title</h1>
+				<p class="mb-2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nemo itaque doloremque saepe recusandae, consectetur voluptas, amet accusantium, nisi accusamus quod! Nisi quidem sapiente molestiae enim quaerat eum nobis blanditiis?</p>
+			</div>
+			<div class="col-md-12 mt-3">
 				<?php for ($i = 0; $i < 6; $i++) { ?>
 					<div class="card mb-3">
 						<span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
@@ -97,12 +94,16 @@
 				<?php } ?>
 			</div>
 			<div class="col-12">
+				<div class="text-center">
+					<h2>Section heading</h2>
+					<p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam molestias repudiandae ipsum, officiis voluptatum minus rem earum minima esse unde porro. Quia accusamus, magnam ipsa nesciunt quis ea corrupti veniam.</p>
+				</div>
 				<div class="related_category_ads">
 					<div class="accordion" id="accordionExample">
 						<div class="accordion-item">
 							<h2 class="accordion-header">
 								<button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-									Call Girls in India
+									Escorts in India
 								</button>
 							</h2>
 							<div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
