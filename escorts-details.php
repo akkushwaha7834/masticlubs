@@ -17,8 +17,8 @@
     <nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>>'; ">
         <ol class="breadcrumb mb-0">
             <li class="breadcrumb-item"><a href="./">Home</a></li>
-            <li class="breadcrumb-item"><a href="./call-girls.php">Call Girls</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Call Girls Details</li>
+            <li class="breadcrumb-item"><a href="./excorts.php">Escorts</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Escorts Details</li>
         </ol>
     </nav>
 </div>
@@ -29,7 +29,7 @@
             <div class="col-md-9">
                 <h2>Cash On Delivery Noida College Girls Student And Auntie In Aerocity</h2>
                 <p class="mb-2">
-                    <small>21 Years Old | Call Girls | Delhi all areas available</small>
+                    <small>21 Years Old | Escorts | Delhi all areas available</small>
                 </p>
                 <p class="mb-3">Noida Whataap Calll 𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲 Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy Ending Service Done By Most Attractive Charming Soft Spoken Bold Beautiful Full Cooperative Independent Escorts Available In All Star Hotel And Home Service Since Ten Years Without Any Copmplant If You Want Spend Some Time With Beautyfull Hot Bebs Real College Girls Housewifes We Provide High Class Escorts Service In Gurgaon Noida Delhi Like You Feel % Real Friend . We Have Most Beautiful Housewife ,College Girls Genuine Indian Model Panjabi Kashmire Model,Sexy And Hot Working Women With Fun Service Location</p>
                 <p>
@@ -68,14 +68,14 @@
                         <span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
                         <div class="row g-0">
                             <div class="col-md-4 col-lg-3 col-xl-2">
-                                <a href="./call-girls-details.php">
+                                <a href="./excorts-details.php">
                                     <img src="https://in.masticlubs.com/uploads/model_image/251292/thumbnail/93434x.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
                                 </a>
                             </div>
                             <div class="col-md-8 col-lg-9 col-xl-10">
                                 <div class="card-body">
                                     <h5 class="card-title">
-                                        <a href="./call-girls-details.php">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</a>
+                                        <a href="./excorts-details.php">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</a>
                                     </h5>
                                     <p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
                                     <p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
