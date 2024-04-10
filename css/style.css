@@ -250,8 +250,27 @@ header {
     line-height: 38px;
 }
 
+.card {
+    overflow: hidden;
+}
+
+.card a>img.h-100 {
+    min-height: 200px !important;
+    max-height: 200px !important;
+    border-radius: 0 !important;
+}
+
 .card.mb-3:last-child {
     margin-bottom: 0 !important;
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+    .card a>img.h-100 {
+        min-height: 245px !important;
+        max-height: 245px !important;
+    }
+
 }
 
 /* Banner */
@@ -503,7 +522,10 @@ header {
     border-bottom: none;
     display: flex;
     align-items: center;
-    justify-content: center;
+    flex-wrap: nowrap;
+    text-wrap: nowrap;
+    overflow: auto hidden;
+    margin-bottom: .4rem;
 }
 
 #services_location .nav-link:hover {
@@ -640,5 +662,11 @@ a.theme-btn {
     .nav-item>a {
         display: inline-block;
         margin-block: 0.4rem;
+    }
+
+    .card a>img.h-100 {
+        min-height: 300px;
+        max-height: 300px;
+        object-position: top;
     }
 }

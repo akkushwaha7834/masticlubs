@@ -220,13 +220,13 @@
           <div class="accordion" id="accordionExample">
             <div class="accordion-item">
               <h2 class="accordion-header">
-                <button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   Escorts in India
                 </button>
               </h2>
-              <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+              <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+                  <ul class="list-unstyled row row-cols-3 row-cols-md-4 row-cols-lg-6 gy-4">
                     <li>
                       <a href="#">Agra</a>
                     </li>
@@ -341,7 +341,7 @@
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+                  <ul class="list-unstyled row row-cols-3 row-cols-md-4 row-cols-lg-6 gy-4">
                     <li>
                       <a href="#">Agra</a>
                     </li>
@@ -456,7 +456,7 @@
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  <ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+                  <ul class="list-unstyled row row-cols-3 row-cols-md-4 row-cols-lg-6 gy-4">
                     <li>
                       <a href="#">Agra</a>
                     </li>

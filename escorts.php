@@ -51,35 +51,108 @@
 				<p class="mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nemo itaque doloremque saepe recusandae, consectetur voluptas, amet accusantium, nisi accusamus quod! Nisi quidem sapiente molestiae enim quaerat eum nobis blanditiis?</p>
 			</div>
 			<div class="col-md-12 mt-3">
-				<?php for ($i = 0; $i < 6; $i++) { ?>
-					<div class="card mb-3">
-						<span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
-						<div class="row g-0">
-							<div class="col-md-4 col-lg-3 col-xl-2">
-								<a href="./escorts-details.php">
-									<img src="https://in.masticlubs.com/uploads/model_image/251292/thumbnail/93434x.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
-								</a>
-							</div>
-							<div class="col-md-8 col-lg-9 col-xl-10">
-								<div class="card-body">
-									<h5 class="card-title">
-										<a href="./escorts-details.php">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</a>
-									</h5>
-									<p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
-									<p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
-									<div class="d-flex gap-2 justify-content-end contact-icons">
-										<a href="#">
-											<i class="fa-brands fa-whatsapp"></i>
-										</a>
-										<a href="#">
-											<i class="fa fa-phone"></i>
-										</a>
-									</div>
+
+				<div class="card mb-3">
+					<span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
+					<div class="row g-0">
+						<div class="col-12">
+							<div class="card-body">
+								<h5 class="card-title">
+									<a href="./escorts-details.php">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</a>
+								</h5>
+								<p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
+								<p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
+								<div class="d-flex gap-2 justify-content-end contact-icons">
+									<a href="#">
+										<i class="fa-brands fa-whatsapp"></i>
+									</a>
+									<a href="#">
+										<i class="fa fa-phone"></i>
+									</a>
 								</div>
 							</div>
 						</div>
 					</div>
-				<?php } ?>
+				</div>
+				<div class="card mb-3">
+					<span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
+					<div class="row g-0">
+						<div class="col-md-4 col-lg-3 col-xl-2">
+							<div id="carouselExample" class="h-100 carousel slide">
+								<div class="h-100 carousel-inner">
+									<div class="h-100 carousel-item active">
+										<a href="./escorts-details.php">
+											<img src="https://in.masticlubs.com/uploads/model_image/252165/thumbnail/750125440649728f320d88.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
+										</a>
+									</div>
+									<div class="h-100 carousel-item">
+										<a href="./escorts-details.php">
+											<img src="https://in.masticlubs.com/uploads/model_image/252149/thumbnail/745721000000801-9-426x493.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
+										</a>
+									</div>
+									<div class="h-100 carousel-item">
+										<a href="./escorts-details.php">
+											<img src="https://in.masticlubs.com/uploads/model_image/252171/thumbnail/67764IMG-20240224-WA0001.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
+										</a>
+									</div>
+								</div>
+								<button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+									<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+									<span class="visually-hidden">Previous</span>
+								</button>
+								<button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+									<span class="carousel-control-next-icon" aria-hidden="true"></span>
+									<span class="visually-hidden">Next</span>
+								</button>
+							</div>
+						</div>
+						<div class="col-md-8 col-lg-9 col-xl-10">
+							<div class="card-body">
+								<h5 class="card-title">
+									<a href="./escorts-details.php">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</a>
+								</h5>
+								<p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
+								<p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
+								<div class="d-flex gap-2 justify-content-end contact-icons">
+									<a href="#">
+										<i class="fa-brands fa-whatsapp"></i>
+									</a>
+									<a href="#">
+										<i class="fa fa-phone"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="card mb-3">
+					<span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
+					<div class="row g-0">
+						<div class="col-md-4 col-lg-3 col-xl-2">
+							<a href="./escorts-details.php">
+								<img src="https://in.masticlubs.com/uploads/model_image/251292/thumbnail/93434x.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
+							</a>
+						</div>
+						<div class="col-md-8 col-lg-9 col-xl-10">
+							<div class="card-body">
+								<h5 class="card-title">
+									<a href="./escorts-details.php">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</a>
+								</h5>
+								<p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
+								<p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
+								<div class="d-flex gap-2 justify-content-end contact-icons">
+									<a href="#">
+										<i class="fa-brands fa-whatsapp"></i>
+									</a>
+									<a href="#">
+										<i class="fa fa-phone"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
 			</div>
 			<div class="col-12">
 				<div class="text-center">
@@ -89,13 +162,13 @@
 					<div class="accordion" id="accordionExample">
 						<div class="accordion-item">
 							<h2 class="accordion-header">
-								<button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+								<button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 									Escorts in India
 								</button>
 							</h2>
-							<div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+							<div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
 								<div class="accordion-body">
-									<ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+									<ul class="list-unstyled row row-cols-3 row-cols-md-4 row-cols-lg-6 gy-4">
 										<li>
 											<a href="#">Agra</a>
 										</li>
@@ -210,7 +283,7 @@
 							</h2>
 							<div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
 								<div class="accordion-body">
-									<ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+									<ul class="list-unstyled row row-cols-3 row-cols-md-4 row-cols-lg-6 gy-4">
 										<li>
 											<a href="#">Agra</a>
 										</li>
@@ -325,7 +398,7 @@
 							</h2>
 							<div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
 								<div class="accordion-body">
-									<ul class="list-unstyled row row-cols-md-4 row-cols-lg-6 gy-4">
+									<ul class="list-unstyled row row-cols-3 row-cols-md-4 row-cols-lg-6 gy-4">
 										<li>
 											<a href="#">Agra</a>
 										</li>
