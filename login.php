@@ -19,7 +19,7 @@
                                 I agree to terms's & Condition if Use and Privacy Notes
                             </label>
                         </div>
-                        <button class="btn bttn btn-primary w-50 mt-3">Sign Up</button>
+                        <button class="btn bttn btn-primary w-50 mt-3">Login</button>
                         <p class="text-center mt-2"><a href="forgot-password.php" class="text-primary text-decoration-none">Forgot your password?</a></p>
                         <p class="text-center">Don't have an account yet? <a href="signup.php" class="text-primary text-decoration-none">Signup</a></p>
                     </form>

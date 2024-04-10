@@ -1,17 +1,5 @@
 <?php include_once('./includes/header.php') ?>
 
-<!-- <section class="callgirl-banner">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-10">
-                <div class="banner_content">
-                    <button type="button" class="btn bttn btn-warning mt-4 text-center" data-bs-toggle="modal" data-bs-target="#buttonClickModal">Search Now</button>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
-
 <!-- breadcrubms -->
 <div class="container py-2">
     <nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>>'; ">
@@ -46,7 +34,7 @@
             </div>
             <div class="col-md-3">
                 <div class="sticky-top z-1 top-70">
-                    <div class="d-flex flex-column gap-3 mb-5">
+                    <div class="d-flex flex-column gap-3 mb-4">
                         <a href="#" class="btn bttn btn-primary"><i class="fa fa-phone"></i> Phone</a>
                         <a href="#" class="btn bttn btn-primary"><i class="fa-brands fa-whatsapp"></i> Whatsapp</a>
                     </div>
@@ -62,7 +50,7 @@
                 </div>
             </div>
             <div class="col-12">
-                <h3 class="mb-4 mt-5">Similar Profiles</h3>
+                <h3 class="mb-2">Similar Profiles</h3>
                 <?php for ($i = 0; $i < 4; $i++) { ?>
                     <div class="card mb-3">
                         <span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
@@ -92,6 +80,10 @@
                         </div>
                     </div>
                 <?php } ?>
+            </div>
+            <div class="col-12">
+                <h3 class="mb-2">Heading</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, dolore nostrum. Voluptatem doloribus sequi assumenda facilis hic error totam rem cupiditate excepturi! Consectetur veniam architecto pariatur recusandae corrupti perferendis nobis sapiente eum error quia modi maiores blanditiis velit, temporibus officiis provident? Reprehenderit, excepturi! Tempore fuga cumque odit sint ut vitae mollitia dolores dolorum quasi illo blanditiis ullam voluptatem ex suscipit doloremque at eveniet ipsam deserunt dolorem, sit placeat. Necessitatibus omnis amet esse. <span class="d-none more-text">Amet asperiores aspernatur sint. Ut fuga quidem deserunt. Tempore tempora repellendus ducimus officiis, laudantium eius repudiandae, adipisci quis debitis consequuntur corporis illo necessitatibus aut non voluptate beatae at nemo ipsam nihil sequi. Quam ullam voluptatum accusantium quaerat sapiente cumque consequuntur vel aliquid alias. Minima officiis numquam quaerat veritatis eius debitis vel recusandae commodi asperiores adipisci laboriosam, temporibus dolores aliquam autem eos sint, eaque hic deserunt in tenetur esse ea. Ad, asperiores quae labore eligendi eaque illo est inventore.</span> <a role="button" class="text-primary fw-semibold text-decoration-underline" id="show">Show more</a></p>
             </div>
         </div>
     </div>

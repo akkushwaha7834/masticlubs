@@ -40,3 +40,15 @@ $('[data-fancybox="story"]').fancybox({
   },
   protect: true,
 });
+
+const show = document.getElementById("show");
+const moreText = document.querySelector(".more-text");
+
+show.addEventListener("click", function () {
+  moreText.classList.toggle("d-none");
+  if (moreText.classList.contains("d-none")) {
+    show.textContent = "Show More";
+  } else {
+    show.textContent = "Show Less";
+  }
+});

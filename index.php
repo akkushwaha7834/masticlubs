@@ -22,12 +22,12 @@
         <p class="banner_para text-center px-5">Welcome to Masticlubs – It is the best and notable place, where you can post adult classified ads in India.</p>
       </div>
       <div class="col-md-12">
-        <p>
+        <p class="mb-4">
           Welcome to Masticlubs.com Adult Escorts Service Directory Your confided in brand for grown-up adult advertisements in India. Would you like to savor some sexual and erotic escort Services? Depend on Masticlubs, an entrance of genuine adult promotions for free call young ladies Pune, sexual gathering, knead Services, celebrity escort Services in Delhi, Bangalore & Mumbai, and different urban communities. Peruse all classes to find call young men, transgender, pleasure seeker meeting, gay escorts, and grown-up gathering. Masticlubs likewise distributes the promotions for video sex administrations. Track down everything on Masticlubs.com in a single tick. Searching for clients for your Services? Post your profiles and grouped advertisements totally Free.
         </p>
       </div>
     </div>
-    <div class="row mt-4 gy-5">
+    <div class="row gy-5">
       <div class="col-md-4">
         <div class="product">
           <div class="image-box">
@@ -147,9 +147,9 @@
 <!-- Location Listing -->
 <section class="location_listing">
   <div class="container">
-    <div class="row justify-content-center gy-4">
+    <div class="row justify-content-center">
       <div class="col-12 text-center">
-        <h2>Section heading</h2>
+        <h2 class="mt-3">Section heading</h2>
       </div>
       <div class="col-md-8">
         <p class="text-center location_para">
@@ -157,9 +157,9 @@
         </p>
       </div>
     </div>
-    <div class="row mt-4">
+    <div class="row">
       <div class="col-md-12">
-        <nav id="services_location" class="mt-5">
+        <nav id="services_location" class="mt-4">
           <div class="nav nav-tabs" id="nav-tab" role="tablist">
             <button class="nav-link partners active" id="nav-call-girls-tab" data-bs-toggle="tab" data-bs-target="#nav-call-girls" type="button" role="tab" aria-controls="nav-call-girls" aria-selected="true"><img src="images/call-girl.png"> Escorts</button>
             <button class="nav-link partners" id="nav-massage-tab" data-bs-toggle="tab" data-bs-target="#nav-massage" type="button" role="tab" aria-controls="nav-massage" aria-selected="false" tabindex="-1"><img src="images/massage-service.png"> Massage</button>
@@ -207,13 +207,12 @@
 </section>
 <!-- Location Listing -->
 <!-- Above Footer -->
-<section class="above_footer py-5">
+<section class="above_footer">
   <div class="container">
-    <div class="row gy-3">
+    <div class="row gy-4">
       <div class="col-12">
         <div class="text-center">
-          <h2>Section heading</h2>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam molestias repudiandae ipsum, officiis voluptatum minus rem earum minima esse unde porro. Quia accusamus, magnam ipsa nesciunt quis ea corrupti veniam.</p>
+          <h2 class="mb-0">Top Cities</h2>
         </div>
       </div>
       <div class="col-md-12">
@@ -566,6 +565,10 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="col-12">
+        <h3 class="mb-2">Heading</h3>
+        <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, dolore nostrum. Voluptatem doloribus sequi assumenda facilis hic error totam rem cupiditate excepturi! Consectetur veniam architecto pariatur recusandae corrupti perferendis nobis sapiente eum error quia modi maiores blanditiis velit, temporibus officiis provident? Reprehenderit, excepturi! Tempore fuga cumque odit sint ut vitae mollitia dolores dolorum quasi illo blanditiis ullam voluptatem ex suscipit doloremque at eveniet ipsam deserunt dolorem, sit placeat. Necessitatibus omnis amet esse. <span class="d-none more-text">Amet asperiores aspernatur sint. Ut fuga quidem deserunt. Tempore tempora repellendus ducimus officiis, laudantium eius repudiandae, adipisci quis debitis consequuntur corporis illo necessitatibus aut non voluptate beatae at nemo ipsam nihil sequi. Quam ullam voluptatum accusantium quaerat sapiente cumque consequuntur vel aliquid alias. Minima officiis numquam quaerat veritatis eius debitis vel recusandae commodi asperiores adipisci laboriosam, temporibus dolores aliquam autem eos sint, eaque hic deserunt in tenetur esse ea. Ad, asperiores quae labore eligendi eaque illo est inventore.</span> <a role="button" class="text-primary fw-semibold text-decoration-underline" id="show">Show more</a></p>
       </div>
     </div>
   </div>

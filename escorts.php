@@ -1,17 +1,5 @@
 <?php include_once('./includes/header.php') ?>
 
-<!-- <section class="callgirl-banner">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-md-10">
-				<div class="banner_content">
-					<button type="button" class="btn bttn btn-warning mt-4 text-center" data-bs-toggle="modal" data-bs-target="#buttonClickModal">Search Now</button>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-
 <!-- breadcrubms -->
 <div class="container py-2">
 	<nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>>'; ">
@@ -57,10 +45,10 @@
 
 <section class="call-girls-listing">
 	<div class="container">
-		<div class="row gy-5">
+		<div class="row gy-4">
 			<div class="col-12">
 				<h1 class="text-primary">Page Title</h1>
-				<p class="mb-2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nemo itaque doloremque saepe recusandae, consectetur voluptas, amet accusantium, nisi accusamus quod! Nisi quidem sapiente molestiae enim quaerat eum nobis blanditiis?</p>
+				<p class="mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nemo itaque doloremque saepe recusandae, consectetur voluptas, amet accusantium, nisi accusamus quod! Nisi quidem sapiente molestiae enim quaerat eum nobis blanditiis?</p>
 			</div>
 			<div class="col-md-12 mt-3">
 				<?php for ($i = 0; $i < 6; $i++) { ?>
@@ -95,8 +83,7 @@
 			</div>
 			<div class="col-12">
 				<div class="text-center">
-					<h2>Section heading</h2>
-					<p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam molestias repudiandae ipsum, officiis voluptatum minus rem earum minima esse unde porro. Quia accusamus, magnam ipsa nesciunt quis ea corrupti veniam.</p>
+					<h2 class="mb-3">Top Cities</h2>
 				</div>
 				<div class="related_category_ads">
 					<div class="accordion" id="accordionExample">
@@ -447,6 +434,10 @@
 						</div>
 					</div>
 				</div>
+			</div>
+			<div class="col-12">
+				<h3 class="mb-2">Heading</h3>
+				<p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, dolore nostrum. Voluptatem doloribus sequi assumenda facilis hic error totam rem cupiditate excepturi! Consectetur veniam architecto pariatur recusandae corrupti perferendis nobis sapiente eum error quia modi maiores blanditiis velit, temporibus officiis provident? Reprehenderit, excepturi! Tempore fuga cumque odit sint ut vitae mollitia dolores dolorum quasi illo blanditiis ullam voluptatem ex suscipit doloremque at eveniet ipsam deserunt dolorem, sit placeat. Necessitatibus omnis amet esse. <span class="d-none more-text">Amet asperiores aspernatur sint. Ut fuga quidem deserunt. Tempore tempora repellendus ducimus officiis, laudantium eius repudiandae, adipisci quis debitis consequuntur corporis illo necessitatibus aut non voluptate beatae at nemo ipsam nihil sequi. Quam ullam voluptatum accusantium quaerat sapiente cumque consequuntur vel aliquid alias. Minima officiis numquam quaerat veritatis eius debitis vel recusandae commodi asperiores adipisci laboriosam, temporibus dolores aliquam autem eos sint, eaque hic deserunt in tenetur esse ea. Ad, asperiores quae labore eligendi eaque illo est inventore.</span> <a role="button" class="text-primary fw-semibold text-decoration-underline" id="show">Show more</a></p>
 			</div>
 		</div>
 	</div>

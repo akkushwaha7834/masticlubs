@@ -9,7 +9,7 @@
       <div class="col-12 footer_menu_list">
         <ul class="footer-menu list-unstyled mb-0">
           <li>
-            <a href="#" class="text-decoration-none text-white">Home</a>
+            <a href="./" class="text-decoration-none text-white">Home</a>
           </li>
           <span class=" text-white">|</span>
           <li>

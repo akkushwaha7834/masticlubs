@@ -220,7 +220,8 @@ header {
 }
 
 .footer {
-    padding: 20px 0;
+    margin-top: 20px;
+    padding: 20px 0 10px;
     background: var(--primary);
 }
 
@@ -247,6 +248,10 @@ header {
     border-radius: 50%;
     background-color: var(--white);
     line-height: 38px;
+}
+
+.card.mb-3:last-child {
+    margin-bottom: 0 !important;
 }
 
 /* Banner */
@@ -377,7 +382,7 @@ header {
 
 /*Content Section*/
 .content_section {
-    padding: 50px 0;
+    padding: 20px 0;
 }
 
 .product {
@@ -460,7 +465,11 @@ header {
 }
 
 .location_listing {
-    padding: 50px 0;
+    padding: 20px 0;
+}
+
+.above_footer {
+    padding: 20px 0;
 }
 
 #services_location .nav-link.active {
@@ -585,7 +594,7 @@ a.theme-btn {
 }
 
 .call-girls-listing {
-    padding: 80px 0;
+    padding: 20px 0;
 }
 
 .list-callgirl {
