@@ -2,6 +2,7 @@
 
 <!-- breadcrubms -->
 <div class="container py-2">
+	<h1 class="text-primary mb-4">Page Title</h1>
 	<nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>>'; ">
 		<ol class="breadcrumb mb-0">
 			<li class="breadcrumb-item"><a href="./">Home</a></li>
@@ -15,24 +16,24 @@
 		<div class="col-12">
 			<div class="h6 mb-3 fw-semibold">SUPERTOP STORIES</div>
 			<div id="stories" class="d-flex gap-3 overflow-x-auto overflow-y-hidden pb-1">
-				<?php for ($i = 0; $i < 10; $i++) { ?>
+				<?php for ($i = 0; $i < 6; $i++) { ?>
 					<div class="stories_thumb">
 						<a href="https://ii-static.imgskk.com/post/9d/58/9d58a6bba44f469293a3d5776dcf0046.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" data-fancybox="story">
-							<img src="https://ii-static.imgskk.com/post/9d/58/9d58a6bba44f469293a3d5776dcf0046.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" alt="Happy ending massage" draggable="false" class="img-fluid" />
+							<img src="https://ii-static.imgskk.com/post/9d/58/9d58a6bba44f469293a3d5776dcf0046.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" alt="Happy ending massage" class="img-fluid object-fit-cover" style="height: 160px;" />
 							<span class="badge badge-supertop">Super Top</span>
 							<div class="user-username">Happy ending massage</div>
 						</a>
 					</div>
 					<div class="stories_thumb">
-						<a href="https://ii-static.imgskk.com/post/0a/a2/0aa2db481574449aba286d0f36e43c47.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" data-fancybox="story">
-							<img src="https://ii-static.imgskk.com/post/0a/a2/0aa2db481574449aba286d0f36e43c47.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" alt="ADYAR !! EROTIC FULL ENJOYMENT BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICES" draggable="false" loading="lazy" class="img-fluid" />
+						<a href="https://in.masticlubs.com/uploads/model_image/252149/thumbnail/745721000000801-9-426x493.jpg" data-fancybox="story">
+							<img src="https://in.masticlubs.com/uploads/model_image/252149/thumbnail/745721000000801-9-426x493.jpg" alt="ADYAR !! EROTIC FULL ENJOYMENT BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICES" loading="lazy" class="img-fluid object-fit-cover" style="height: 160px;" />
 							<span class="badge badge-supertop">Super Top</span>
 							<div class="user-username">ADYAR !! EROTIC FULL ENJOYMENT BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICES</div>
 						</a>
 					</div>
 					<div class="stories_thumb">
 						<a href="https://ii-static.imgskk.com/post/85/8b/858b4fea6ce14558b69fb3387527d3b1.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" data-fancybox="story">
-							<img src="https://ii-static.imgskk.com/post/85/8b/858b4fea6ce14558b69fb3387527d3b1.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" alt="INCREDIBLE BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICEC" draggable="false" loading="lazy" class="img-fluid" />
+							<img src="https://ii-static.imgskk.com/post/85/8b/858b4fea6ce14558b69fb3387527d3b1.jpg?listing=supertop_stories_thumb&amp;v=84ssm3xe" alt="INCREDIBLE BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICEC" loading="lazy" class="img-fluid object-fit-cover" style="height: 160px;" />
 							<span class="badge badge-supertop">Super Top</span>
 							<div class="user-username">INCREDIBLE BODY TO BODY FULL NUDE MASSAGE WITH EXTRA SERVICEC</div>
 						</a>
@@ -47,7 +48,6 @@
 	<div class="container">
 		<div class="row gy-4">
 			<div class="col-12">
-				<h1 class="text-primary">Page Title</h1>
 				<p class="mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum nemo itaque doloremque saepe recusandae, consectetur voluptas, amet accusantium, nisi accusamus quod! Nisi quidem sapiente molestiae enim quaerat eum nobis blanditiis?</p>
 			</div>
 			<div class="col-md-12 mt-3">
@@ -82,7 +82,7 @@
 								<div class="h-100 carousel-inner">
 									<div class="h-100 carousel-item active">
 										<a href="./escorts-details.php">
-											<img src="https://in.masticlubs.com/uploads/model_image/252165/thumbnail/750125440649728f320d88.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
+											<img src="https://ii-static.imgskk.com/post/9d/58/9d58a6bba44f469293a3d5776dcf0046.jpg?listing=supertop_stories_thumb&v=84ssm3xe" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
 										</a>
 									</div>
 									<div class="h-100 carousel-item">
@@ -92,7 +92,7 @@
 									</div>
 									<div class="h-100 carousel-item">
 										<a href="./escorts-details.php">
-											<img src="https://in.masticlubs.com/uploads/model_image/252171/thumbnail/67764IMG-20240224-WA0001.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
+											<img src="https://in.masticlubs.com/uploads/model_image/251292/thumbnail/93434x.jpg" class="img-fluid rounded-start w-100 h-100 object-fit-cover" alt="Cash On Delivery Noida College Girls Student And Auntie In Aerocity">
 										</a>
 									</div>
 								</div>

@@ -1,36 +1,34 @@
 <?php include_once('./includes/header.php') ?>
 
-<!-- breadcrubms -->
-<div class="container py-2">
-    <nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>>'; ">
-        <ol class="breadcrumb mb-0">
-            <li class="breadcrumb-item"><a href="./">Home</a></li>
-            <li class="breadcrumb-item"><a href="./escorts.php">Escorts</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Escorts Details</li>
-        </ol>
-    </nav>
-</div>
-
 <section class="call-girls-listing">
     <div class="container">
         <div class="row gy-4">
             <div class="col-md-9">
-                <h2>Cash On Delivery Noida College Girls Student And Auntie In Aerocity</h2>
-                <p class="mb-2">
-                    <small>21 Years Old | Escorts | Delhi all areas available</small>
-                </p>
-                <p class="mb-3">Noida Whataap Calll 𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲 Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy Ending Service Done By Most Attractive Charming Soft Spoken Bold Beautiful Full Cooperative Independent Escorts Available In All Star Hotel And Home Service Since Ten Years Without Any Copmplant If You Want Spend Some Time With Beautyfull Hot Bebs Real College Girls Housewifes We Provide High Class Escorts Service In Gurgaon Noida Delhi Like You Feel % Real Friend . We Have Most Beautiful Housewife ,College Girls Genuine Indian Model Panjabi Kashmire Model,Sexy And Hot Working Women With Fun Service Location</p>
-                <p>
-                    Mahipalpur | Majnu Ka Tilla | Aerocity | Delhi,Noida | Gurgaon | Paharganj | GTB Nagar | Sarita Vihar | Chattarpur | Dwarka | Rajouri Garden | Connaught Place | Janakpuri
-                </p>
+                <!-- breadcrubms -->
+                <h1 class="h2 mb-3">Cash On Delivery Noida College Girls Student And Auntie In Aerocity</h2>
+                    <nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>>'; ">
+                        <ol class="breadcrumb mb-0">
+                            <li class="breadcrumb-item"><a href="./">Home</a></li>
+                            <li class="breadcrumb-item"><a href="./escorts.php">Escorts</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Escorts Details</li>
+                        </ol>
+                    </nav>
 
-                <div class="galleries">
-                    <?php for ($i = 0; $i < 3; $i++) { ?>
-                        <a href="https://cdn.chekzi.com/content/images/call-girl-38-1.jpg" data-fancybox="group">
-                            <img src="https://cdn.chekzi.com/content/images/call-girl-38-1.jpg" class="img-fluid" alt="">
-                        </a>
-                    <?php } ?>
-                </div>
+                    <p class="mb-2">
+                        <small>21 Years Old | Escorts | Delhi all areas available</small>
+                    </p>
+                    <p class="mb-3">Noida Whataap Calll 𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲 Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy Ending Service Done By Most Attractive Charming Soft Spoken Bold Beautiful Full Cooperative Independent Escorts Available In All Star Hotel And Home Service Since Ten Years Without Any Copmplant If You Want Spend Some Time With Beautyfull Hot Bebs Real College Girls Housewifes We Provide High Class Escorts Service In Gurgaon Noida Delhi Like You Feel % Real Friend . We Have Most Beautiful Housewife ,College Girls Genuine Indian Model Panjabi Kashmire Model,Sexy And Hot Working Women With Fun Service Location</p>
+                    <p>
+                        Mahipalpur | Majnu Ka Tilla | Aerocity | Delhi,Noida | Gurgaon | Paharganj | GTB Nagar | Sarita Vihar | Chattarpur | Dwarka | Rajouri Garden | Connaught Place | Janakpuri
+                    </p>
+
+                    <div class="galleries">
+                        <?php for ($i = 0; $i < 3; $i++) { ?>
+                            <a href="https://cdn.chekzi.com/content/images/call-girl-38-1.jpg" data-fancybox="group">
+                                <img src="https://cdn.chekzi.com/content/images/call-girl-38-1.jpg" class="img-fluid" alt="">
+                            </a>
+                        <?php } ?>
+                    </div>
             </div>
             <div class="col-md-3">
                 <div class="sticky-top z-1 top-70">
