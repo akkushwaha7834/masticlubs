@@ -63,7 +63,7 @@
 								<p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
 								<p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
 								<div class="d-flex gap-2 justify-content-end contact-icons">
-									<a href="#">
+									<a href="#" class="whatsapp-clr">
 										<i class="fa-brands fa-whatsapp"></i>
 									</a>
 									<a href="#">
@@ -78,7 +78,7 @@
 					<span style="font-size: 12px;" class="position-absolute top-0 end-0 rounded shadow p-1 m-1"><i class="fa-solid fa-arrow-trend-up"></i> Top</span>
 					<div class="row g-0">
 						<div class="col-md-4 col-lg-3 col-xl-2">
-							<div id="carouselExample" class="h-100 carousel slide">
+							<div id="carouselExample" data-bs-ride="carousel" data-bs-interval="2000" class="h-100 carousel slide">
 								<div class="h-100 carousel-inner">
 									<div class="h-100 carousel-item active">
 										<a href="./escorts-details.php">
@@ -114,7 +114,7 @@
 								<p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
 								<p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
 								<div class="d-flex gap-2 justify-content-end contact-icons">
-									<a href="#">
+									<a href="#" class="whatsapp-clr">
 										<i class="fa-brands fa-whatsapp"></i>
 									</a>
 									<a href="#">
@@ -141,7 +141,7 @@
 								<p class="card-text mb-2">Noida Whataap Calll <strong>𝟳𝟴𝟯𝟴𝟬 𝟳𝟗𝟴𝟬𝟲</strong> Door Step Delivery Top Quality Female Escorts Service We Offering You % Genuine Completed Body And Mind Relaxation With Happy En</p>
 								<p class="card-text"><small class="text-body-secondary">21 Years | Delhi</small></p>
 								<div class="d-flex gap-2 justify-content-end contact-icons">
-									<a href="#">
+									<a href="#" class="whatsapp-clr">
 										<i class="fa-brands fa-whatsapp"></i>
 									</a>
 									<a href="#">
@@ -509,8 +509,30 @@
 				</div>
 			</div>
 			<div class="col-12">
-				<h3 class="mb-2">Heading</h3>
-				<p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, dolore nostrum. Voluptatem doloribus sequi assumenda facilis hic error totam rem cupiditate excepturi! Consectetur veniam architecto pariatur recusandae corrupti perferendis nobis sapiente eum error quia modi maiores blanditiis velit, temporibus officiis provident? Reprehenderit, excepturi! Tempore fuga cumque odit sint ut vitae mollitia dolores dolorum quasi illo blanditiis ullam voluptatem ex suscipit doloremque at eveniet ipsam deserunt dolorem, sit placeat. Necessitatibus omnis amet esse. <span class="d-none more-text">Amet asperiores aspernatur sint. Ut fuga quidem deserunt. Tempore tempora repellendus ducimus officiis, laudantium eius repudiandae, adipisci quis debitis consequuntur corporis illo necessitatibus aut non voluptate beatae at nemo ipsam nihil sequi. Quam ullam voluptatum accusantium quaerat sapiente cumque consequuntur vel aliquid alias. Minima officiis numquam quaerat veritatis eius debitis vel recusandae commodi asperiores adipisci laboriosam, temporibus dolores aliquam autem eos sint, eaque hic deserunt in tenetur esse ea. Ad, asperiores quae labore eligendi eaque illo est inventore.</span> <a role="button" class="text-primary fw-semibold text-decoration-underline" id="show">Show more</a></p>
+				<div class="shadow rounded p-3">
+					<div class="line-clamp" id="text-content">
+						<h5 class="mb-1">How can you find Bangalore escorts?</h5>
+						<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate voluptatem placeat rem expedita earum, nihil asperiores labore adipisci exercitationem qui ipsum beatae, soluta architecto. Error minima corporis temporibus dolores in dolorem, odit quidem nihil aliquid, pariatur dolorum. Tempore consectetur nisi, quos magnam blanditiis error numquam? Eos, veniam. Laboriosam, dignissimos cupiditate?</p>
+						<h5 class="mb-1">Heading</h5>
+						<p class="line-clamp" id="text-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi earum harum quasi, voluptatibus labore architecto aperiam maiores voluptates perspiciatis consequuntur?</p>
+						<h5 class="mb-1">Heading</h5>
+						<p class="line-clamp" id="text-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi earum harum quasi, voluptatibus labore architecto aperiam maiores voluptates perspiciatis consequuntur?</p>
+					</div>
+					<div class="show-more overlay position-relative z-0 text-center" id="overlay">
+						<a role="button" class="text-primary fw-semibold text-decoration-underline" id="show">Show more</a>
+					</div>
+				</div>
+				<hr class="my-4">
+				<small>
+					<p>
+						<strong>Masticlubs.com does not interfere between the pleasure seekers and advertisers</strong>
+					</p>
+					<p>By subscribing to and using our classified ads, you accept our Terms and Conditions. The adult classified ads are published by the consent of publishers.</p>
+
+					<p>The advertisers are completely responsible for the type of content and graphics published in their advertisements on Masticlubs. The published advertisements are not subjected to any kind of prior verification or in-person/manual authentication by Masticlubs. We will not be accountable, in any circumstances, for the reliability, legality, property rights, and possible displeasure with the services published by the advertisers.</p>
+
+					<p>Masticlubs.com is a platform that provides publication and ad search services. It doesn’t intervene or mediate between the pleasure seekers and service providers in any manner.</p>
+				</small>
 			</div>
 		</div>
 	</div>

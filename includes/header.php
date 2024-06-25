@@ -14,6 +14,26 @@
 </head>
 
 <body>
+  <div id="carouselAlert" data-bs-ride="carousel" data-bs-interval="2000" class="carousel slide">
+    <div class="carousel-inner text-center">
+      <div class="carousel-item active">
+        <div class="alert alert-dark mb-0 border-0 rounded-0" role="alert">
+          Be cautious of individuals who request money in advance or attempt to blackmail you through channels like WhatsApp.
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="alert alert-dark mb-0 border-0 rounded-0" role="alert">
+          It is recommended that you do not send money to anyone in advance.
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="alert alert-dark mb-0 border-0 rounded-0" role="alert">
+          Oklute is a secure dating site and not an escort agency.
+        </div>
+      </div>
+    </div>
+    <button class="p-2 position-absolute end-0 top-0 btn-close" id="alertClose" type="button"></button>
+  </div>
   <!-- Header -->
   <header class="w-100 z-3">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -24,10 +44,10 @@
         <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="navbar-collapse collapse" id="navbarSupportedContent" style="">
+        <div class="navbar-collapse collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           </ul>
-          <ul class="navbar-nav menu_bar">
+          <ul class="navbar-nav menu_bar gap-2 gap-lg-3">
             <li class="nav-item">
               <a type="button" class="" data-bs-toggle="modal" data-bs-target="#buttonClickModal">
                 <i id="search-modal-icon" class="fas fa-search text-clipped"></i>

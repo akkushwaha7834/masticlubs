@@ -41,14 +41,30 @@ $('[data-fancybox="story"]').fancybox({
   protect: true,
 });
 
-const show = document.getElementById("show");
-const moreText = document.querySelector(".more-text");
+$(document).ready(function () {
+  $("#show").on("click", function () {
+    $("#text-content").toggleClass("line-clamp");
+    $("#overlay").toggleClass("overlay");
+    if ($(this).text() === "Show more") {
+      $(this).text("Show less");
+    } else {
+      $(this).text("Show more");
+    }
+  });
+});
 
-show.addEventListener("click", function () {
-  moreText.classList.toggle("d-none");
-  if (moreText.classList.contains("d-none")) {
-    show.textContent = "Show More";
-  } else {
-    show.textContent = "Show Less";
+document.addEventListener("DOMContentLoaded", function () {
+  const carouselAlert = document.getElementById("carouselAlert");
+  const closeButton = carouselAlert.querySelector("#alertClose");
+
+  // Check session storage to see if the carousel should be hidden
+  if (sessionStorage.getItem("carouselClosed") === "true") {
+    carouselAlert.style.display = "none";
   }
+
+  // Event listener for the close button
+  closeButton.addEventListener("click", function () {
+    carouselAlert.style.display = "none";
+    sessionStorage.setItem("carouselClosed", "true");
+  });
 });

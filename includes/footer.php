@@ -67,7 +67,7 @@
       </div>
       <div class="modal-footer d-block text-center border-0 mb-3">
         <button type="button" class="btn bttn btn-primary border-0 mb-3 w-50" id="agreeBtn" style="">ACCEPT</button><br>
-        <a href="https://www.google.com" rel="noopener nofollow" data-dismiss="modal" class="text-center text-primary text-decoration-none">Decline</a>
+        <a href="./" rel="noopener nofollow" data-dismiss="modal" class="text-center text-primary text-decoration-none">Decline</a>
       </div>
     </div>
   </div>

@@ -8,6 +8,7 @@
     --secondary: #0077b6;
     --white: #ffffff;
     --black: #212529;
+    --whatsapp: #25D366;
 }
 
 body {
@@ -202,9 +203,9 @@ header {
     align-items: center;
 }
 
-.nav-item {
+/* .nav-item {
     margin: 0 15px;
-}
+} */
 
 .nav-item a i {
     color: var(--primary);
@@ -542,7 +543,7 @@ header {
 
 .theme-btn {
     position: relative;
-    display: inline;
+    display: inline-block;
     overflow: hidden;
     font-size: 17px;
     padding: 8px 26px;
@@ -654,6 +655,30 @@ a.theme-btn {
     height: 50px;
 }
 
+.whatsapp-clr {
+    background-color: var(--whatsapp) !important;
+    border-color: var(--whatsapp);
+}
+
+.line-clamp {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 7;
+    overflow: hidden;
+}
+
+.overlay::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 100%;
+    bottom: 20px;
+    height: 4em;
+    background: -webkit-linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+    pointer-events: none;
+    z-index: 0;
+}
+
 @media (max-width: 767px) {
     .navbar-brand>img {
         width: 170px;
@@ -661,7 +686,7 @@ a.theme-btn {
 
     .nav-item>a {
         display: inline-block;
-        margin-block: 0.4rem;
+        /* margin-block: 0.4rem; */
     }
 
     .card a>img.h-100 {
