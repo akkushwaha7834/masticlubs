@@ -53,10 +53,7 @@
                 <i id="search-modal-icon" class="fas fa-search text-clipped"></i>
               </a>
             </li>
-            <li class="nav-item d-flex">
-              <!-- <a type="button" class="" data-bs-toggle="modal" data-bs-target="#buttonClickModalSignup">
-                <i id="search-modal-icon" class="fas fa-user text-clipped"></i>
-              </a> -->
+            <li class="nav-item">
               <a type="button" class="theme-btn" data-bs-toggle="modal" data-bs-target="#buttonClickModalSignup" class="theme-btn"> Sign Up</a>
             </li>
             <li class="nav-item">
